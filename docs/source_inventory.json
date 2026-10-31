@@ -1,0 +1,4913 @@
+[
+  {
+    "original_path": "assets/001bedroom/0.gif",
+    "bytes": 513496,
+    "sha256": "dce0ef53bb8c8abad869228caa740bb664ac497f7854b37a5d3bf32e69c58718",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/000.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/1.gif",
+    "bytes": 532631,
+    "sha256": "2c8c589833ba19789b595fe34d604953b042c676bc010f1606ad7ecad83e9552",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/001.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/10.gif",
+    "bytes": 543562,
+    "sha256": "be162a611083b7cccc9c78674e37d178d931fc4f1d328929c4266557271a42bb",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/010.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/11.gif",
+    "bytes": 534246,
+    "sha256": "881a88d83b1ef164411d0f4b51c37c9d486e8578682ae9b78ecb60e000e143ed",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/011.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/12.gif",
+    "bytes": 548083,
+    "sha256": "5e31ba1f49b5e313c80f9e2699c29cdee3fecf51ee4e070f2cbbd57b9c172aa8",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/012.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/13.gif",
+    "bytes": 547887,
+    "sha256": "941f350498cd94eca2e1a98734bbbc3cdaff8fa3c3a6c42431a182c724102f22",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/013.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/14.gif",
+    "bytes": 542250,
+    "sha256": "df16cae463a0447768e39d7bd0e76e4f5d230e35c7f916cfa098bde08a4b26ff",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/014.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/15.gif",
+    "bytes": 523924,
+    "sha256": "c80c2fa931f9894dac763fc6c8ac61c26ebfd0278c8981fbc0e4096186de4548",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/015.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/16.gif",
+    "bytes": 520480,
+    "sha256": "f37478d2ac953aa633c7c6223fa5368f74a5a253b64a8feaa8fbdd7a214f89bf",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/016.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/17.gif",
+    "bytes": 543692,
+    "sha256": "98e0ac94c958e85a58efd39fd0f9be270e3c67d8646e78e6fd6a3339600ef1a4",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/017.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/18.gif",
+    "bytes": 541613,
+    "sha256": "377a49960520ad9b8eb952b5e9cb956b9878f8318f9f41c42b80d7b3248114f2",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/018.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/19.gif",
+    "bytes": 522455,
+    "sha256": "3b0e5808b57425b666612951d4ff3f56031d74d11ea8976972e4665f10496bee",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/019.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/2.gif",
+    "bytes": 541550,
+    "sha256": "28f2e05ecb592d755dd4bbd50ca4420e35c7768a1bfc703da4b673527e930833",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/002.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/20.gif",
+    "bytes": 549197,
+    "sha256": "c3e8490187e3d4013bea55e3f59a075e8a55dde9fa09944f7b459629a3ced3c2",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/020.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/21.gif",
+    "bytes": 550696,
+    "sha256": "10fe157d387a5e2f6d4a515f7edd0a3be3182a5f605c1f830c15657deb61868c",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/021.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/22.gif",
+    "bytes": 550327,
+    "sha256": "4b150965c185eaf20e7a8dcd7033bc5751ba6eeb5de0d500ca2bb9537eeb2feb",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/022.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/23.gif",
+    "bytes": 548582,
+    "sha256": "f158621013c5f13b45172ed7f532e37125992cda978d21985322f219b902aa59",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/023.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/24.gif",
+    "bytes": 543402,
+    "sha256": "e107e6fefcc8518a056c55502f01e8832e5f5c180cca363c6a80c1af8aa97c7f",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/024.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/25.gif",
+    "bytes": 546839,
+    "sha256": "a120429bc16939dbb362c5da61aa009030b142f88fc32de07da6a83230b3e53b",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/025.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/26.gif",
+    "bytes": 547799,
+    "sha256": "4dcb2fbcab6ba26d0235bcf56675a01b80cfa816ecd6a71064d40ca14b254c8a",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/026.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/27.gif",
+    "bytes": 548450,
+    "sha256": "534484df3346d7f1486c7aa6c13a5e9e13e253c24b1233d0aa4d22575860f9bb",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/027.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/28.gif",
+    "bytes": 544320,
+    "sha256": "cde59e14537e5907748cceb6c881132729f9d62872680f58488a866f92b69cb7",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/028.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/29.gif",
+    "bytes": 551600,
+    "sha256": "5e04c58c12f1a92a155430d752d87906c912ed82f527325268127c8e3f6b0fc8",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/029.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/3.gif",
+    "bytes": 540900,
+    "sha256": "7ac6e1bc1a1097e540468df685936c17a22c77d9dcea934503c3786b37deef57",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/003.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/30.gif",
+    "bytes": 549835,
+    "sha256": "35b1c309fb47203539987f061a685adbe03c1fa23394bfdf95b43bbbf57f71f0",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/030.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/31.gif",
+    "bytes": 548741,
+    "sha256": "e4e448e627a46642b4de467e31e63c7f5232105b081f5ca0f1f24eeeab328bf6",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/031.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/32.gif",
+    "bytes": 544169,
+    "sha256": "589575decbf7e3e0fdb07701cf09095791734ab864760990c69f6998348fc514",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/032.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/33.gif",
+    "bytes": 539583,
+    "sha256": "8dac61e4fae25522b57a9c9bf22510195f440d0ac87058531835e528e92882df",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/033.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/34.gif",
+    "bytes": 543998,
+    "sha256": "f1a63f519032707165e13d3d81b9d5a6623cea6bd5c2f4172d8fdf2cb50d5811",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/034.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/35.gif",
+    "bytes": 542434,
+    "sha256": "c018287d2c68f2f19b063d9e606db2f2df2bfad6ae40b4bddcfc35dba4452a2a",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/035.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/36.gif",
+    "bytes": 535596,
+    "sha256": "8299daeab4ab1807a66cc6d6165dfce893582c221144b8fc6b192524e15a6ee3",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/036.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/37.gif",
+    "bytes": 540506,
+    "sha256": "4f7df67b80bdc5ba4e03c94d73c8630e482063f382a8fc82e849ae642ddfeec7",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/037.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/38.gif",
+    "bytes": 536397,
+    "sha256": "5daf0af3d92a47cafeff2428bdd7513548df90a59d4e596d8f3fd415d3c7e3b3",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/038.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/4.gif",
+    "bytes": 533356,
+    "sha256": "60a185a92ec771f57afa558bc64c65b6fc90d6e5d2e71890a1ff95208e5c2073",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/004.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/5.gif",
+    "bytes": 533805,
+    "sha256": "9ac7b5c44c2730d3c2f238cccfb7955a0922783c57ad16ca33b3b59f44da2e39",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/005.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/6.gif",
+    "bytes": 537179,
+    "sha256": "cf5c559165972f3c19b98777258413ef0cffdd142cc8e3131d66eaf76f7a81c8",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/006.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/7.gif",
+    "bytes": 524303,
+    "sha256": "a853c50802105d9fc0152791240cbd96812db21bb93792194cb7d5c1e6b07aa9",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/007.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/8.gif",
+    "bytes": 542791,
+    "sha256": "165cbdf8763b6fb627825578efdf3afb2f3e1fe5a87b128a37455ec80f29e2a6",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/008.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001bedroom/9.gif",
+    "bytes": 544048,
+    "sha256": "c54d3628061ce81aa89e4311a8bd6a3398e0eea0d8ec7c7d5d27ca73084ae850",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/009.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001cutscene/1.png",
+    "bytes": 1732,
+    "sha256": "54ff16f742e905fb82562a5136eac931d60394f53a8493ca72a2e462a04d798a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/1.png",
+      "levels/intro/assets/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001cutscene/2.png",
+    "bytes": 2532,
+    "sha256": "a80b4937df837b4089f5b2d632054d0bb4042d8b5c49ce9f4fabcddd8e6340c5",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/2.png",
+      "levels/intro/assets/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001cutscene/3.png",
+    "bytes": 3541,
+    "sha256": "5b47dfe40ccfc07e245c6528f0b8ca33e4a7f937ecec7dc536c2c26799de023b",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/3.png",
+      "levels/intro/assets/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001cutscene/4.png",
+    "bytes": 1604,
+    "sha256": "aa737a9324133bc6c96db069679e2f2a82cf699453e39b63c5ff0931e8ce7618",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/4.png",
+      "levels/intro/assets/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/001cutscene/5.png",
+    "bytes": 2610,
+    "sha256": "2d6f82e96ee75b7f7308ccecced8ea65c2bc5b73d9760503a2fd82626209e586",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/5.png",
+      "levels/intro/assets/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/0.gif",
+    "bytes": 513496,
+    "sha256": "dce0ef53bb8c8abad869228caa740bb664ac497f7854b37a5d3bf32e69c58718",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/000.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/1.gif",
+    "bytes": 532631,
+    "sha256": "2c8c589833ba19789b595fe34d604953b042c676bc010f1606ad7ecad83e9552",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/001.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/10.gif",
+    "bytes": 543562,
+    "sha256": "be162a611083b7cccc9c78674e37d178d931fc4f1d328929c4266557271a42bb",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/010.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/11.gif",
+    "bytes": 534246,
+    "sha256": "881a88d83b1ef164411d0f4b51c37c9d486e8578682ae9b78ecb60e000e143ed",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/011.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/12.gif",
+    "bytes": 548083,
+    "sha256": "5e31ba1f49b5e313c80f9e2699c29cdee3fecf51ee4e070f2cbbd57b9c172aa8",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/012.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/13.gif",
+    "bytes": 547887,
+    "sha256": "941f350498cd94eca2e1a98734bbbc3cdaff8fa3c3a6c42431a182c724102f22",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/013.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/14.gif",
+    "bytes": 542250,
+    "sha256": "df16cae463a0447768e39d7bd0e76e4f5d230e35c7f916cfa098bde08a4b26ff",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/014.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/15.gif",
+    "bytes": 523924,
+    "sha256": "c80c2fa931f9894dac763fc6c8ac61c26ebfd0278c8981fbc0e4096186de4548",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/015.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/16.gif",
+    "bytes": 520480,
+    "sha256": "f37478d2ac953aa633c7c6223fa5368f74a5a253b64a8feaa8fbdd7a214f89bf",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/016.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/17.gif",
+    "bytes": 543692,
+    "sha256": "98e0ac94c958e85a58efd39fd0f9be270e3c67d8646e78e6fd6a3339600ef1a4",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/017.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/18.gif",
+    "bytes": 541613,
+    "sha256": "377a49960520ad9b8eb952b5e9cb956b9878f8318f9f41c42b80d7b3248114f2",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/018.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/19.gif",
+    "bytes": 522455,
+    "sha256": "3b0e5808b57425b666612951d4ff3f56031d74d11ea8976972e4665f10496bee",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/019.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/2.gif",
+    "bytes": 541550,
+    "sha256": "28f2e05ecb592d755dd4bbd50ca4420e35c7768a1bfc703da4b673527e930833",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/002.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/20.gif",
+    "bytes": 549197,
+    "sha256": "c3e8490187e3d4013bea55e3f59a075e8a55dde9fa09944f7b459629a3ced3c2",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/020.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/21.gif",
+    "bytes": 550696,
+    "sha256": "10fe157d387a5e2f6d4a515f7edd0a3be3182a5f605c1f830c15657deb61868c",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/021.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/22.gif",
+    "bytes": 550327,
+    "sha256": "4b150965c185eaf20e7a8dcd7033bc5751ba6eeb5de0d500ca2bb9537eeb2feb",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/022.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/23.gif",
+    "bytes": 548582,
+    "sha256": "f158621013c5f13b45172ed7f532e37125992cda978d21985322f219b902aa59",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/023.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/24.gif",
+    "bytes": 543402,
+    "sha256": "e107e6fefcc8518a056c55502f01e8832e5f5c180cca363c6a80c1af8aa97c7f",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/024.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/25.gif",
+    "bytes": 546839,
+    "sha256": "a120429bc16939dbb362c5da61aa009030b142f88fc32de07da6a83230b3e53b",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/025.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/26.gif",
+    "bytes": 547799,
+    "sha256": "4dcb2fbcab6ba26d0235bcf56675a01b80cfa816ecd6a71064d40ca14b254c8a",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/026.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/27.gif",
+    "bytes": 548450,
+    "sha256": "534484df3346d7f1486c7aa6c13a5e9e13e253c24b1233d0aa4d22575860f9bb",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/027.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/28.gif",
+    "bytes": 544320,
+    "sha256": "cde59e14537e5907748cceb6c881132729f9d62872680f58488a866f92b69cb7",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/028.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/29.gif",
+    "bytes": 551600,
+    "sha256": "5e04c58c12f1a92a155430d752d87906c912ed82f527325268127c8e3f6b0fc8",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/029.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/3.gif",
+    "bytes": 540900,
+    "sha256": "7ac6e1bc1a1097e540468df685936c17a22c77d9dcea934503c3786b37deef57",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/003.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/30.gif",
+    "bytes": 549835,
+    "sha256": "35b1c309fb47203539987f061a685adbe03c1fa23394bfdf95b43bbbf57f71f0",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/030.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/31.gif",
+    "bytes": 548741,
+    "sha256": "e4e448e627a46642b4de467e31e63c7f5232105b081f5ca0f1f24eeeab328bf6",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/031.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/32.gif",
+    "bytes": 544169,
+    "sha256": "589575decbf7e3e0fdb07701cf09095791734ab864760990c69f6998348fc514",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/032.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/33.gif",
+    "bytes": 539583,
+    "sha256": "8dac61e4fae25522b57a9c9bf22510195f440d0ac87058531835e528e92882df",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/033.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/34.gif",
+    "bytes": 543998,
+    "sha256": "f1a63f519032707165e13d3d81b9d5a6623cea6bd5c2f4172d8fdf2cb50d5811",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/034.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/35.gif",
+    "bytes": 542434,
+    "sha256": "c018287d2c68f2f19b063d9e606db2f2df2bfad6ae40b4bddcfc35dba4452a2a",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/035.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/36.gif",
+    "bytes": 535596,
+    "sha256": "8299daeab4ab1807a66cc6d6165dfce893582c221144b8fc6b192524e15a6ee3",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/036.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/37.gif",
+    "bytes": 540506,
+    "sha256": "4f7df67b80bdc5ba4e03c94d73c8630e482063f382a8fc82e849ae642ddfeec7",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/037.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/38.gif",
+    "bytes": 536397,
+    "sha256": "5daf0af3d92a47cafeff2428bdd7513548df90a59d4e596d8f3fd415d3c7e3b3",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/038.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/4.gif",
+    "bytes": 533356,
+    "sha256": "60a185a92ec771f57afa558bc64c65b6fc90d6e5d2e71890a1ff95208e5c2073",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/004.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/5.gif",
+    "bytes": 533805,
+    "sha256": "9ac7b5c44c2730d3c2f238cccfb7955a0922783c57ad16ca33b3b59f44da2e39",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/005.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/6.gif",
+    "bytes": 537179,
+    "sha256": "cf5c559165972f3c19b98777258413ef0cffdd142cc8e3131d66eaf76f7a81c8",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/006.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/7.gif",
+    "bytes": 524303,
+    "sha256": "a853c50802105d9fc0152791240cbd96812db21bb93792194cb7d5c1e6b07aa9",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/007.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/8.gif",
+    "bytes": 542791,
+    "sha256": "165cbdf8763b6fb627825578efdf3afb2f3e1fe5a87b128a37455ec80f29e2a6",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/008.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/backs/9.gif",
+    "bytes": 544048,
+    "sha256": "c54d3628061ce81aa89e4311a8bd6a3398e0eea0d8ec7c7d5d27ca73084ae850",
+    "restored_paths": [
+      "levels/bedroom/assets/frames/009.gif"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/nokia_ringtone.mp3",
+    "bytes": 372819,
+    "sha256": "8ad9943170c8cb646c0895b0f75f28b2c684820b033852d1e0f342b7fc2a41ed",
+    "restored_paths": [
+      "assets/audio/nokia_ringtone.mp3"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/002/phone1.png",
+    "bytes": 787897,
+    "sha256": "176f5ec245a9e73b65fd09d0fe07d2c02bcf6ac683cfc58286faffae174bac4c",
+    "restored_paths": [
+      "levels/bedroom/assets/phone.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/Sad.gif",
+    "bytes": 96914,
+    "sha256": "cdc7558713dc0a111165d3a4a1964479a61bd44aff2fb378710a339e3c41c95b",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "assets/Untitled.RPP",
+    "bytes": 17087,
+    "sha256": "54250c3f07a2501dea8c82be98b8cdb1ab20c3fad1f688de73c24ec0c4977969",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_01.png",
+    "bytes": 1176,
+    "sha256": "e3773411061e4f421e6f63c5551940e6badcbbc9de14d49c91c50cd3ac691767",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_01.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_02.png",
+    "bytes": 1242,
+    "sha256": "1eb26a9965f0041df0eae518ea4ec772a2473871900eb4bdc00ca6a6e0f82256",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_02.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_03.png",
+    "bytes": 1178,
+    "sha256": "8044bfe3d0c2d278abf31ada3856228f3d99973c577867e30db6905e8860e1ad",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_03.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_04.png",
+    "bytes": 1262,
+    "sha256": "d6ebe75954d1a5f56f89f1203a88340af8f9be2bb85fc88efdb7500344d142a7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_04.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_05.png",
+    "bytes": 1131,
+    "sha256": "fc326e0885f29f08df37e692143a6866a0cea8ad387f46a99c11aa8d38e4b181",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_05.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_06.png",
+    "bytes": 1254,
+    "sha256": "03e022d9b783840525b9baec34314678d07256fe33754414616b6cd6d0b7da36",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_06.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_07.png",
+    "bytes": 1156,
+    "sha256": "cbad4fd5c36b58b926123e89bf35ed94950c53c4522ca3a956e6970bc99257f6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_07.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_08.png",
+    "bytes": 1278,
+    "sha256": "bd1be69ef42db1d61d039ca6b1885d63e4862ed19ae56cc6cb6a19ad31d44e82",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_08.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_09.png",
+    "bytes": 1150,
+    "sha256": "c92ea940873bb63e312384a24e564149ed3070839c61eb02ed724120e3b96313",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_09.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_10.png",
+    "bytes": 1259,
+    "sha256": "9797e36fadf6fe2cb76ba60a7c4e52b2e3516b9c64a1d08f998b7e70ae594fc3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_10.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_100.png",
+    "bytes": 1043,
+    "sha256": "c136a98f91682eaf9d89b7a49f8ff1c192611c7e9f4e0815400967bd4dc1b5c3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_100.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_11.png",
+    "bytes": 1257,
+    "sha256": "bcc61b75cf374ac058914a07204e326eea57a4bf75e589ac64f3c5dc8280ffb9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_11.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_12.png",
+    "bytes": 1111,
+    "sha256": "194d10eca77800130bbcb8161a1a05973adbeb53eb6aed1405717307fb90dfad",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_12.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_13.png",
+    "bytes": 1250,
+    "sha256": "6d5a316afc86288a090f7e3d3d39068e97d165349288cf49b8804bd9f356a39b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_13.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_14.png",
+    "bytes": 1144,
+    "sha256": "bf0a251a5a4db50acf82aefe1eed272ea489759f3714689abbce6243855e0c98",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_14.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_15.png",
+    "bytes": 1278,
+    "sha256": "cc6565712565535104494bd99e380a06a32bb5ea1284f6b9512f5f4a166b0692",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_15.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_16.png",
+    "bytes": 1162,
+    "sha256": "005790a85b6bbde5dbbab503cc594fceeeeba5119b875cfd8b7af16e021df080",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_16.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_17.png",
+    "bytes": 1159,
+    "sha256": "5060b74efdd7ca531f78126b8548a323f9f9435dee2ffa283ad62f19284696c7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_17.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_18.png",
+    "bytes": 1030,
+    "sha256": "41cf1409b9c700ed9620954256462c560c9294f6ecc94883dd0e353c2539eb23",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_18.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_19.png",
+    "bytes": 1158,
+    "sha256": "a39df907ad667fde5ad4d6cae2a7b11fe45f22db717e82e881eefa475f90df77",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_19.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_20.png",
+    "bytes": 1035,
+    "sha256": "2ce48bce76b8d92dde3b437f1d54044430d5067d6583aec67eee7933ec296ed1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_20.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_21.png",
+    "bytes": 1156,
+    "sha256": "2d13a8d586bd0f8150b5af0df15920fc1ff533e12138c43974d10c3ec450f6c7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_21.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_22.png",
+    "bytes": 1243,
+    "sha256": "86623fa266b99c904ac9ca68cb76a3ba875aa0797bf8eb505506337982de12b9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_22.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_23.png",
+    "bytes": 1120,
+    "sha256": "db13580541fd3c11da9c4c80c5791aad862713cfca79f9704c313c3830301bfb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_23.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_24.png",
+    "bytes": 1254,
+    "sha256": "9ef62c9857440432343732e27c9c8e00c0dde285da85c4cf3e20500c5550b4eb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_24.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_25.png",
+    "bytes": 1153,
+    "sha256": "af2c6e629093e4010569d5b53feab07e0d9f0aaea74754b9babadc241bb84eb3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_25.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_26.png",
+    "bytes": 1255,
+    "sha256": "e32517aa686940862896a7a45170947cc95a2fa3f7779f231d03fa4cde39d385",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_26.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_27.png",
+    "bytes": 1088,
+    "sha256": "24e577730780690555b555cb5ecc88a258a01b6fdf08d4e9427ef2f459b357f7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_27.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_28.png",
+    "bytes": 1205,
+    "sha256": "af8a643ec214696e55f478a5ddeb73a9c9487ed584d5d87eb622520c897f67ca",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_28.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_29.png",
+    "bytes": 1087,
+    "sha256": "8cec7de93e9e67f5f9a4c6a016764b94cf9f23012825f00837088cad034443cb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_29.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_30.png",
+    "bytes": 1205,
+    "sha256": "2cb0f3c183fa858dad611d6547310f7e16b876cca621b0ed3641c9e65c385586",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_30.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_31.png",
+    "bytes": 1271,
+    "sha256": "c23cae3dcb0b75d2b992d4e8d61ef54f7fd3975af2ad4614af7049aa01acff43",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_31.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_32.png",
+    "bytes": 1115,
+    "sha256": "2446f0d0710f89a78769add2506c6f56086bf8604446d4e56bf8e3af487122f0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_32.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_33.png",
+    "bytes": 1295,
+    "sha256": "e7e423fd3132ee70d495106ca2838f2b487944c99a8c0ff181710e7676d1a358",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_33.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_34.png",
+    "bytes": 1162,
+    "sha256": "1766eb4913d18c6790c80bb3b7747c601293465e8b3fed946816be7542e5697b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_34.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_35.png",
+    "bytes": 1260,
+    "sha256": "daab2762f88321d025da2e561082b14c5ac7a546b50bc0d2cd5d4ed5906211c7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_35.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_36.png",
+    "bytes": 1108,
+    "sha256": "9dd4756662051e9f1af55d6f9e73321630d76a84efdce64af62145fc9286dca7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_36.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_37.png",
+    "bytes": 1188,
+    "sha256": "2ea5b3b4ed37ad669e5e393f87f5ef933803af950b991e978d98c9d89b2558fb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_37.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_38.png",
+    "bytes": 1079,
+    "sha256": "5233e4321b80a487f206d85e5b6059e4b1a38a304177a89e222426919c8d0a4e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_38.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_39.png",
+    "bytes": 1184,
+    "sha256": "6cb18b5ffe8a0c075cbc64e0d11ad18d3efcf73cadf726141ccde0f4a1019b9b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_39.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_40.png",
+    "bytes": 1093,
+    "sha256": "41631e4234e9ab0dd4c520923d2adbdc71c1c062f9d12d2be3d037a6c98defb6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_40.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_41.png",
+    "bytes": 1186,
+    "sha256": "bc414d0ba858405fd7fb0813e392afb1f71a609a1757d6c246b0bb7d84dea292",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_41.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_42.png",
+    "bytes": 1255,
+    "sha256": "e983b5b84009c9bc0e173a4f5169a5414923931787f0ff5e82a85256fe935b5c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_42.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_43.png",
+    "bytes": 1161,
+    "sha256": "b985aea483019ea0d0666124d6ba98f03337d316538156b5938df497bfa9218c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_43.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_44.png",
+    "bytes": 1176,
+    "sha256": "7a15a4868f4529816d082dc9c91b702d0af1006235c7a6feca60be7616e7a765",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_44.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_45.png",
+    "bytes": 1049,
+    "sha256": "5b76ff09216c89610ef78791307ab052860caa7de59b0c0149cdc83231d59da9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_45.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_46.png",
+    "bytes": 1180,
+    "sha256": "7b5bad32b270f0f4f44f89743b78fbcf126c6c1b877d7ccd4878554b78b49d64",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_46.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_47.png",
+    "bytes": 1093,
+    "sha256": "6d10ee893fda619f622f391d6abf03d933a1e5764b55cf70fa4a6b502e268e36",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_47.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_48.png",
+    "bytes": 1208,
+    "sha256": "4eceb35363e815cfb7507fc8269d81a4b62cc38bcda5869857123c87a6b1728d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_48.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_49.png",
+    "bytes": 1104,
+    "sha256": "fdde1dc60d2bfb3237ef8658d5f812d7768d56b83429c6ba3b9391834267c515",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_49.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_50.png",
+    "bytes": 1215,
+    "sha256": "350074d596086224b5fa623c23defbf3f2e3acaabdce9685911456cfbdc0e3ec",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_50.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_51.png",
+    "bytes": 1170,
+    "sha256": "48b441593d3c183583520a36887b579548d32da025a5440219427f4f2f7bc61d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_51.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_52.png",
+    "bytes": 1024,
+    "sha256": "89e7b17855b62d22037167dc6019ac1184533a9a632b8484fc7bbd7e2dcefe69",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_52.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_53.png",
+    "bytes": 1156,
+    "sha256": "3f847f776b09ba3a24e07f2c9a91df66aa17dd6a23ff92014e03afc58ee77f59",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_53.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_54.png",
+    "bytes": 1114,
+    "sha256": "f3126795684c64d98db7f8474c1459d4b01b1d1d326ad4328aee78361ebc58e2",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_54.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_55.png",
+    "bytes": 1318,
+    "sha256": "0d885bd7c0e73a4d9701e737b0686c47dfd7ae86b3b6501bb3ca62a9229194fe",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_55.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_56.png",
+    "bytes": 1040,
+    "sha256": "0c4e2cdb5c3881b0b2fba77a8fe529a161a2c21887222898542a640c67d5c75f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_56.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_57.png",
+    "bytes": 1180,
+    "sha256": "4722780ef8a2f0fc0e2f2c7f3c669ab7c400e18026b7296d84b3674bbec2a4ac",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_57.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_58.png",
+    "bytes": 1053,
+    "sha256": "34d759166925f290b1ec6d2cd2c53d5925cc2a226cdea5769dcece1f7b5bdb9d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_58.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_59.png",
+    "bytes": 1164,
+    "sha256": "6b95f0fd496464c4a97b87663f347d2daab1e7223b3dceb17976e5f337498fa4",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_59.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_60.png",
+    "bytes": 1043,
+    "sha256": "32de5ca2ac84a6ce757760d706912aabd867fb64419b463eccf7478900f6a3fa",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_60.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_61.png",
+    "bytes": 1163,
+    "sha256": "93b557683fcefcade01c848e39e48870365bec81fe7b1233c0d5822d7c5de111",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_61.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_62.png",
+    "bytes": 1155,
+    "sha256": "0ab259674f69301c5587509c55a247f68099216e4ded3a0fe1e55b9bfbc118fa",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_62.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_63.png",
+    "bytes": 1085,
+    "sha256": "65d9a55413277a90ca7d9da09d85123ecbee94d386faa6526a1618cbd1395dc0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_63.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_64.png",
+    "bytes": 1265,
+    "sha256": "8f70fff1794b9620b07a7314377af5555b4c41628c46be736cc203313dcb6c22",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_64.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_65.png",
+    "bytes": 1139,
+    "sha256": "557bb5407c030aecc8eaef1dca1a6a1c60f58a7411a334ef1a49cc1bf6769ae5",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_65.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_66.png",
+    "bytes": 1173,
+    "sha256": "ac633086603bfb231c2de81c2829bf5a901ec5cd9d34ed9205b2361166626c75",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_66.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_67.png",
+    "bytes": 1030,
+    "sha256": "297edd47b9cf0bfc972e3063a4936483ccf7f9fc4c8d19928a22a45854e61188",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_67.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_68.png",
+    "bytes": 1212,
+    "sha256": "19e5d926b5f716accaac576bb024ac05bba7269eab8bed5a4a6f45d9131cfdc0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_68.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_69.png",
+    "bytes": 1028,
+    "sha256": "e6093d91d7f37a725475c4ff2a0bcf306d1984d1e8b6b2f0bef04e86e3822d44",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_69.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_70.png",
+    "bytes": 1154,
+    "sha256": "caa0f0831b08cd7f85bdfa841011fbc1bb02111004251e64022e4e90e52b86d6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_70.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_71.png",
+    "bytes": 1302,
+    "sha256": "07e6a3973413eb5cdf3b7db63bdb8558a808b9b9ef60ed79c95460b7277e3f9a",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_71.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_72.png",
+    "bytes": 1023,
+    "sha256": "ed4ef9368099d2b0595c4372ac801b3ba189cd9d0882c242f2cc17410cc2a00c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_72.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_73.png",
+    "bytes": 1228,
+    "sha256": "5ef6789fc840dbf0a228653fb66d391ab156a039addb84fa97de22cc65a5cf29",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_73.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_74.png",
+    "bytes": 1021,
+    "sha256": "02e99ede900f19ac698d53dfda3807f024e4acd56934294d61cefa027c9675d1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_74.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_75.png",
+    "bytes": 1284,
+    "sha256": "8e9c878aa3b8f9f1114f56c3526ae64c027fc621695c402a9d7441465be44dce",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_75.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_76.png",
+    "bytes": 1201,
+    "sha256": "cc671c83de4cc2ef12062a7bff79db978585504a9ccd3672411af69853da2ccd",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_76.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_77.png",
+    "bytes": 1311,
+    "sha256": "33932253dd42ff831b54907d20f3f4b5fa210c875c46bf8c15ad14351a2f3421",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_77.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_78.png",
+    "bytes": 1071,
+    "sha256": "b2ed37bacdb438065503db2da0d2d2cc3649ba4cf22efd8e2e2bfd632b1b360a",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_78.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_79.png",
+    "bytes": 1158,
+    "sha256": "d2c9ba33860da651d85f1a5f0bbc20e24c79c26e47eeec003d25d990248bd7b6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_79.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_80.png",
+    "bytes": 1031,
+    "sha256": "dacd38fc6bf7613db1c207d1114c7c1b9cb0168b71b444ace28c6f429d75b603",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_80.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_81.png",
+    "bytes": 1085,
+    "sha256": "ebe6dbde96c0fa0e3deb06ecd4c690dab1d45faca87e12c612486865ab9a2ee2",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_81.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_82.png",
+    "bytes": 1232,
+    "sha256": "8497f328c07c21a051318f760ac5a06d8e427f7cf0ea777c371913c4a952b9a3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_82.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_83.png",
+    "bytes": 1014,
+    "sha256": "94b2f3aaf57ae634017e4e9ad3f2231dcbf6b0f0fe1b6ea6adebc441ad4ea302",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_83.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_84.png",
+    "bytes": 1160,
+    "sha256": "aa24aef2561a0653d18406ec10f57f4fa3c21e917ae82c46fff7f253a3a923d6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_84.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_85.png",
+    "bytes": 1035,
+    "sha256": "39907e0a4fda946d7db6455a14b54d7db56a8af1953dac051762c86f5879354d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_85.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_86.png",
+    "bytes": 1160,
+    "sha256": "0f686f39f636575bade2dbd3b90de8334078038621270768b1a49d345faad2ad",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_86.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_87.png",
+    "bytes": 1025,
+    "sha256": "5676a3ccf17b6fb92f51b4efde55ed833f7a4d4ccf5f4ed0315dd7e5ed2c7af9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_87.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_88.png",
+    "bytes": 1166,
+    "sha256": "94985c1a6c368744a825dc589140ac4ccb78c3f85c8853f6fc6dc6695b303220",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_88.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_89.png",
+    "bytes": 1022,
+    "sha256": "b42fb9fc06c51988bccf5a4b0326727981d091deb2792d4321e7f1b1f1618b86",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_89.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_90.png",
+    "bytes": 1149,
+    "sha256": "fb1903b8bac87a97a5a1798350817399789524b5f30b8efe8923f8e62ca6aa97",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_90.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_91.png",
+    "bytes": 1204,
+    "sha256": "84a4eca8e7ebd91be8a23f417e35f7e44ad58f396bdfe8055cc72a5a99399004",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_91.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_92.png",
+    "bytes": 1023,
+    "sha256": "33e4692d326cbe6519bca2ebfdbf439913221b454134bb385396ac7e73d1609e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_92.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_93.png",
+    "bytes": 1177,
+    "sha256": "a5cdfae61096ca3caf01dc64806535d15db0cb0e937f1b8df24f4fb1bdf3a915",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_93.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_94.png",
+    "bytes": 1030,
+    "sha256": "b46f58765ef9cc54f23c96adbe21059a524bbf491fe2df44ea0713f425930345",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_94.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_95.png",
+    "bytes": 1152,
+    "sha256": "4d8ea7bdf8cdace18da728243d11dc845ef61f66151cb8ac9c71a75dd684ae06",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_95.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_96.png",
+    "bytes": 1034,
+    "sha256": "3a51017d29e5dad0471d88ecfbf5dcdd8c1582b92fa748426e047beacbb3c501",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_96.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_97.png",
+    "bytes": 1160,
+    "sha256": "a6dd1b1a3fd504bb66161336a26af58640c4183b4824b12935b6dd0bfa782cba",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_97.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_98.png",
+    "bytes": 1039,
+    "sha256": "be302a9a192d3b7032a46231ef17b5f11b356cafdc203e2f22bf7e59d85f71ef",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_98.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_99.png",
+    "bytes": 1160,
+    "sha256": "fd3b2c1e0bdd7d5a119f90081b5853288be8b4d36d4ae392ecede6a574deae1b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_99.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/1.png",
+    "bytes": 1732,
+    "sha256": "a0092f5eaaf564fe946796bb2eff1ae22cac8e7c05c6f8b5823c65dc5e6e4bbd",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/2.png",
+    "bytes": 4554,
+    "sha256": "2bad56b4e9aaa748616369aa8e983adf24ae750cfcce3f334903be9cea5c3a56",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/3.png",
+    "bytes": 4229,
+    "sha256": "a77104d6585c0f13cf437aee76b5021446e6e2d8ed5159469103f4663e094539",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/4.png",
+    "bytes": 1606,
+    "sha256": "e289ab5268598872127ad80595c7a7dc4d591ce41ec8a3c53b3741d342853d75",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/5.png",
+    "bytes": 3110,
+    "sha256": "c3926c2e4f420a0b3a1c60d34ba2ecf8a0fd7ea4ae3f00ac3687f4cea7e56fe6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/1.png",
+    "bytes": 1732,
+    "sha256": "1ad8a6d20fee4b70f60715d885b562991ff94896fb82627cd6de07d5ba29edf9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/2.png",
+    "bytes": 4554,
+    "sha256": "9a3aa7bc5ed358100bc9973b7d34e859ec2fd6f214b26e5b8c4a7c490786a8f3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/3.png",
+    "bytes": 4229,
+    "sha256": "695e51a881bd6a3b8338cfb26de38ffcb703f0d256f22aed7410d134a910d5c0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/4.png",
+    "bytes": 1606,
+    "sha256": "9f2a437a02bd1c5979659fe51f3f741508392c9dade22fb251e2daf27fe1e07c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/5.png",
+    "bytes": 3110,
+    "sha256": "4d0383228b3a270ab28e504c27e4d5b4ad0a73f2810ea8c6dbea9d9ab60a766e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Overlay_illumination.png",
+    "bytes": 181021,
+    "sha256": "7f2be1862e2d0b1d8f460f29cfc6d1b94c81667cd5d2dce6ff582855940ab52b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Overlay_illumination.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/1.png",
+    "bytes": 1072,
+    "sha256": "dc37a184e5b2596578788c2fd61e28dc4c53cfc58bae6769f1557dc92442eddb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/2.png",
+    "bytes": 1083,
+    "sha256": "33e73b05c45b702dd3b82691101e7076dc6e9f8d1d993d377050df550aea6aff",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/3.png",
+    "bytes": 1078,
+    "sha256": "88f6e8feb1b67f0816d17f84ae72c12c96d72b20f182f905d660487fb295d809",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/1.png",
+    "bytes": 1133,
+    "sha256": "fdf6b3cff6068942246502a7abbf1ff7355c9f3f1789091bcc49a0356e4dd6a7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/10.png",
+    "bytes": 1177,
+    "sha256": "57073863d9c0c175e3cc644c77ec3db70f1a9f02a57b915845fb77d6af4f0715",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/10.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/11.png",
+    "bytes": 1150,
+    "sha256": "d4c23b6d786d204afaa40f43fabae0ca7d9a3665348c705ebcf18648d06d0768",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/11.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/12.png",
+    "bytes": 1135,
+    "sha256": "45c2cc55a2753bc9c3f219c159ab71c691816c88a6a286739397df384c68edea",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/12.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/2.png",
+    "bytes": 1142,
+    "sha256": "c2d78993226dbce4e3d9955b2cde111c92144e1ab777c13a194ed6d0d4cf6f08",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/3.png",
+    "bytes": 1168,
+    "sha256": "d67d7a80b02ad894b6dd3b124303c4c325ad565b3c0e34a4fc1e9d6a793a7cf1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/4.png",
+    "bytes": 1123,
+    "sha256": "078156b156828dd522b9fe95e63f1509b9fbea6375e58ab8f6b8a1d1b24391e1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/5.png",
+    "bytes": 1149,
+    "sha256": "a89b0a6ff547132ae73b0596ba9be7e3090668337f6491d8951c067f2c122bdd",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/6.png",
+    "bytes": 1258,
+    "sha256": "6d94de9adedcda72ce0cc55c82c8ab27b81d1abc7320d80be61881e483e12687",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/7.png",
+    "bytes": 1074,
+    "sha256": "dfa40951817be26926bd71a7d447d0ac408638f330ca482810fb5c1cb6616a74",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/7.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/8.png",
+    "bytes": 1092,
+    "sha256": "e262a578012a3fbcee1c69cdb29c07d0619d6cfff1a28b596ccbbd7280171f27",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/8.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/9.png",
+    "bytes": 1389,
+    "sha256": "2ccb9a6901aa433ad9e01960291976afca042cab9a8e73dd59860d05a7df162e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/9.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/1.png",
+    "bytes": 1085,
+    "sha256": "ca8b19e1633eb4d3b6f6924d5b648494fa238e06b27503d1236b81f38842ff61",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/2.png",
+    "bytes": 1024,
+    "sha256": "e4f9b50752d62689b606904df33bfa7f097fbe48967cc246af28900692c3c2e1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/3.png",
+    "bytes": 1031,
+    "sha256": "2a97f330f2f0f00f5cba0b0e58dd65e113fa67f0f332b16fd3cdff08a06f512f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/4.png",
+    "bytes": 1021,
+    "sha256": "883e65ac981dd208d1c2fb2fc9943368b4fec674a29cb21a629c6ffd4a4db2c6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/5.png",
+    "bytes": 1031,
+    "sha256": "2ff066da57a2f3e2b6ccce23f266843610fbbbc05aa27f2f5cac8ae64b792d5e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/6.png",
+    "bytes": 1263,
+    "sha256": "e33d8bb6b9f9f3f37df1081c2d84add415eca22d9de7244543ba3ba1e693557c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/1.png",
+    "bytes": 1249,
+    "sha256": "ae25a46bffe66a4f7e2523376bb729d5b841c45e114f1279c80746c65e67faf5",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/2.png",
+    "bytes": 1128,
+    "sha256": "06e5f1ea7f19968b04b9489011b3905fc2c5671f2cc2b97ea3e16f6df009235e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/3.png",
+    "bytes": 1142,
+    "sha256": "5dfea71139112dcbe27fb5c61920f948181b9fed71e9a3d4966d9810d8f61963",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/4.png",
+    "bytes": 1213,
+    "sha256": "955803b638957c0d853692aae992eea30b917a062d7a644fd32188c0920c529f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/5.png",
+    "bytes": 1172,
+    "sha256": "38f99e0c92375275c5056cb37a19dd012d43991851e06e4b55f0aca606c38ca8",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/6.png",
+    "bytes": 1056,
+    "sha256": "8911115a078ffbea682ab486a9da8436aa506998bf38f8395b8af7446f5ff69b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/7.png",
+    "bytes": 1160,
+    "sha256": "46ef5d6a6d3c6aca74a8d2505688f9986fde909060ca60afe41ce73cab5dd329",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/7.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Card.png",
+    "bytes": 3119,
+    "sha256": "72339bfcaae88a500b2fa346efa758f5fd8bde1cb05a63cca84d819fc79d6bfc",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Card.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Money.png",
+    "bytes": 1304,
+    "sha256": "cd295133222d4d0cb6f1cbd400274072d9295fa0b445729e98737ed11c33101f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Money.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/Font.txt",
+    "bytes": 63,
+    "sha256": "b9fafd19b4745fc03f210aadb6a6a8aef3cb43e1ba81032ae3b68bff6c2ef046",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/Font.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Background.psd",
+    "bytes": 455907,
+    "sha256": "578739f114accba7bd5afd241ef3b15c1aed55c1de49fd6f0d30cd621159ed87",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Background.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Objects.psd",
+    "bytes": 320460,
+    "sha256": "e737b2dddd55bd37cf0bc503c1180fe6c21397511b261b1e5ba5cc39038c50af",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Objects.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards.psd",
+    "bytes": 216849,
+    "sha256": "145e2ecd3dbb9c7ad96eb1b756ad6d2e01a2d3970d58b6738ebda8b1a31bc43e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards_creator.psd",
+    "bytes": 177652,
+    "sha256": "56bd7325975985a301dfa3df747014c33b5caa386916a7d8205c63b36538c9b3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards_creator.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.png",
+    "bytes": 6877,
+    "sha256": "93bc57de29658134c1aeb73a9cb0887aab8068eaf37d0a04b82b4f4677f9c3af",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.psd",
+    "bytes": 756288,
+    "sha256": "ce32d6bf21c045ef878a5a1642349f4b3d668334c02632432e9e506eddfc5350",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art/license.txt",
+    "bytes": 35,
+    "sha256": "0c0f673571adbb935c734ac17fbc6e51fb4368a225b915aa25031712b03960d4",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/license.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/craftpix-net-153816-cyberpunk-market-street-pixel-art.zip",
+    "bytes": 662183,
+    "sha256": "fe7bcb2e863bd9fc7322707bc656055a7dc8658aba7204091d59c7a875b3daf6",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "assets/fonts/20051.ttf",
+    "bytes": 42732,
+    "sha256": "d38fab15c12c7e673b8632671ab2e426b94cce4aa6de14a4bc8d9beef5ed98e9",
+    "restored_paths": [
+      "assets/fonts/20051.ttf"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/images/load_screen.JPG",
+    "bytes": 153448,
+    "sha256": "5120365fc5788a4f239386ac1597d7c580266e499f92fdedfbe86da2a92e5763",
+    "restored_paths": [
+      "assets/menu/background.jpg"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/level1_cutscene/1.png",
+    "bytes": 1732,
+    "sha256": "54ff16f742e905fb82562a5136eac931d60394f53a8493ca72a2e462a04d798a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/1.png",
+      "levels/intro/assets/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/level1_cutscene/2.png",
+    "bytes": 2532,
+    "sha256": "a80b4937df837b4089f5b2d632054d0bb4042d8b5c49ce9f4fabcddd8e6340c5",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/2.png",
+      "levels/intro/assets/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/level1_cutscene/3.png",
+    "bytes": 3541,
+    "sha256": "5b47dfe40ccfc07e245c6528f0b8ca33e4a7f937ecec7dc536c2c26799de023b",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/3.png",
+      "levels/intro/assets/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/level1_cutscene/4.png",
+    "bytes": 1604,
+    "sha256": "aa737a9324133bc6c96db069679e2f2a82cf699453e39b63c5ff0931e8ce7618",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/4.png",
+      "levels/intro/assets/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/level1_cutscene/5.png",
+    "bytes": 2610,
+    "sha256": "2d6f82e96ee75b7f7308ccecced8ea65c2bc5b73d9760503a2fd82626209e586",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/5.png",
+      "levels/intro/assets/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/load_screen.JPG",
+    "bytes": 153448,
+    "sha256": "5120365fc5788a4f239386ac1597d7c580266e499f92fdedfbe86da2a92e5763",
+    "restored_paths": [
+      "assets/menu/background.jpg"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/phone1.png",
+    "bytes": 787897,
+    "sha256": "176f5ec245a9e73b65fd09d0fe07d2c02bcf6ac683cfc58286faffae174bac4c",
+    "restored_paths": [
+      "levels/bedroom/assets/phone.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/plot.txt",
+    "bytes": 1523,
+    "sha256": "898ea45fe22b82a23418459838d03b5573f8e4e31c21acba76210552f5ff94bc",
+    "restored_paths": [
+      "docs/plot.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/sound/Symmetry.mp3",
+    "bytes": 14646251,
+    "sha256": "b87ec5f401416826506858b0a6c585976535abdc7b2056c79ca48c8ec07f9a3d",
+    "restored_paths": [
+      "assets/audio/Symmetry.mp3.part01",
+      "assets/audio/Symmetry.mp3.part02"
+    ],
+    "status": "included as lossless sequential parts; concatenate to recover original SHA-256"
+  },
+  {
+    "original_path": "assets/sound/afterglow_shift_main.wav",
+    "bytes": 10289196,
+    "sha256": "4bf777617e284ba3cdedc994f1411b519ecb725d20f6237027dda37175acab27",
+    "restored_paths": [
+      "assets/audio/afterglow_shift_main.wav"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/sound/nokia_ringtone.mp3",
+    "bytes": 372819,
+    "sha256": "8ad9943170c8cb646c0895b0f75f28b2c684820b033852d1e0f342b7fc2a41ed",
+    "restored_paths": [
+      "assets/audio/nokia_ringtone.mp3"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/sound/street_rain.mp3",
+    "bytes": 11368488,
+    "sha256": "8ace03d9cb27f6a609ed05bd2e4ad29f945ac873e276a532b067da62b34721b9",
+    "restored_paths": [
+      "assets/audio/street_rain.mp3"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "assets/text.py",
+    "bytes": 2925,
+    "sha256": "a30f0b331feb2248cf1d262e427c73ca6f935c35a272e12679eb9fb11355d385",
+    "restored_paths": [
+      "docs/legacy/intro_notes.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "levels/level1_1.bedroom.py",
+    "bytes": 2706,
+    "sha256": "c8bbc846882c788dc5e295b90448c8852c0f1c173f1e511d52a76ee45ba8baac",
+    "restored_paths": [
+      "docs/legacy/level1_1.bedroom.py.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "levels/level1_1.cutscene.py",
+    "bytes": 3089,
+    "sha256": "04630d4366d73ab252b9ea03222825d76f8e18360fe4cf0deed3a3d4541f2242",
+    "restored_paths": [
+      "docs/legacy/level1_1.cutscene.py.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "main_menu/main.py",
+    "bytes": 6292,
+    "sha256": "bce85ff75bffec3f2e3eefecf4304b78f8189f3c44076e97319edf13eba5e690",
+    "restored_paths": [
+      "docs/legacy/main_menu.py.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/afterglow_shift_map.tsx",
+    "bytes": 306,
+    "sha256": "6b9f611036e08905405a7d370a66351342cd02ad1c40afce9fb8af0d800fbe29",
+    "restored_paths": [
+      "source_materials/map/afterglow_shift_map.tsx"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_01.png",
+    "bytes": 1176,
+    "sha256": "e3773411061e4f421e6f63c5551940e6badcbbc9de14d49c91c50cd3ac691767",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_01.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_02.png",
+    "bytes": 1242,
+    "sha256": "1eb26a9965f0041df0eae518ea4ec772a2473871900eb4bdc00ca6a6e0f82256",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_02.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_03.png",
+    "bytes": 1178,
+    "sha256": "8044bfe3d0c2d278abf31ada3856228f3d99973c577867e30db6905e8860e1ad",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_03.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_04.png",
+    "bytes": 1262,
+    "sha256": "d6ebe75954d1a5f56f89f1203a88340af8f9be2bb85fc88efdb7500344d142a7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_04.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_05.png",
+    "bytes": 1131,
+    "sha256": "fc326e0885f29f08df37e692143a6866a0cea8ad387f46a99c11aa8d38e4b181",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_05.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_06.png",
+    "bytes": 1254,
+    "sha256": "03e022d9b783840525b9baec34314678d07256fe33754414616b6cd6d0b7da36",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_06.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_07.png",
+    "bytes": 1156,
+    "sha256": "cbad4fd5c36b58b926123e89bf35ed94950c53c4522ca3a956e6970bc99257f6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_07.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_08.png",
+    "bytes": 1278,
+    "sha256": "bd1be69ef42db1d61d039ca6b1885d63e4862ed19ae56cc6cb6a19ad31d44e82",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_08.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_09.png",
+    "bytes": 1150,
+    "sha256": "c92ea940873bb63e312384a24e564149ed3070839c61eb02ed724120e3b96313",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_09.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_10.png",
+    "bytes": 1259,
+    "sha256": "9797e36fadf6fe2cb76ba60a7c4e52b2e3516b9c64a1d08f998b7e70ae594fc3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_10.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_100.png",
+    "bytes": 1043,
+    "sha256": "c136a98f91682eaf9d89b7a49f8ff1c192611c7e9f4e0815400967bd4dc1b5c3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_100.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_11.png",
+    "bytes": 1257,
+    "sha256": "bcc61b75cf374ac058914a07204e326eea57a4bf75e589ac64f3c5dc8280ffb9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_11.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_12.png",
+    "bytes": 1111,
+    "sha256": "194d10eca77800130bbcb8161a1a05973adbeb53eb6aed1405717307fb90dfad",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_12.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_13.png",
+    "bytes": 1250,
+    "sha256": "6d5a316afc86288a090f7e3d3d39068e97d165349288cf49b8804bd9f356a39b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_13.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_14.png",
+    "bytes": 1144,
+    "sha256": "bf0a251a5a4db50acf82aefe1eed272ea489759f3714689abbce6243855e0c98",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_14.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_15.png",
+    "bytes": 1278,
+    "sha256": "cc6565712565535104494bd99e380a06a32bb5ea1284f6b9512f5f4a166b0692",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_15.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_16.png",
+    "bytes": 1162,
+    "sha256": "005790a85b6bbde5dbbab503cc594fceeeeba5119b875cfd8b7af16e021df080",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_16.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_17.png",
+    "bytes": 1159,
+    "sha256": "5060b74efdd7ca531f78126b8548a323f9f9435dee2ffa283ad62f19284696c7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_17.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_18.png",
+    "bytes": 1030,
+    "sha256": "41cf1409b9c700ed9620954256462c560c9294f6ecc94883dd0e353c2539eb23",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_18.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_19.png",
+    "bytes": 1158,
+    "sha256": "a39df907ad667fde5ad4d6cae2a7b11fe45f22db717e82e881eefa475f90df77",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_19.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_20.png",
+    "bytes": 1035,
+    "sha256": "2ce48bce76b8d92dde3b437f1d54044430d5067d6583aec67eee7933ec296ed1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_20.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_21.png",
+    "bytes": 1156,
+    "sha256": "2d13a8d586bd0f8150b5af0df15920fc1ff533e12138c43974d10c3ec450f6c7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_21.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_22.png",
+    "bytes": 1243,
+    "sha256": "86623fa266b99c904ac9ca68cb76a3ba875aa0797bf8eb505506337982de12b9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_22.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_23.png",
+    "bytes": 1120,
+    "sha256": "db13580541fd3c11da9c4c80c5791aad862713cfca79f9704c313c3830301bfb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_23.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_24.png",
+    "bytes": 1254,
+    "sha256": "9ef62c9857440432343732e27c9c8e00c0dde285da85c4cf3e20500c5550b4eb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_24.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_25.png",
+    "bytes": 1153,
+    "sha256": "af2c6e629093e4010569d5b53feab07e0d9f0aaea74754b9babadc241bb84eb3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_25.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_26.png",
+    "bytes": 1255,
+    "sha256": "e32517aa686940862896a7a45170947cc95a2fa3f7779f231d03fa4cde39d385",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_26.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_27.png",
+    "bytes": 1088,
+    "sha256": "24e577730780690555b555cb5ecc88a258a01b6fdf08d4e9427ef2f459b357f7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_27.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_28.png",
+    "bytes": 1205,
+    "sha256": "af8a643ec214696e55f478a5ddeb73a9c9487ed584d5d87eb622520c897f67ca",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_28.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_29.png",
+    "bytes": 1087,
+    "sha256": "8cec7de93e9e67f5f9a4c6a016764b94cf9f23012825f00837088cad034443cb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_29.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_30.png",
+    "bytes": 1205,
+    "sha256": "2cb0f3c183fa858dad611d6547310f7e16b876cca621b0ed3641c9e65c385586",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_30.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_31.png",
+    "bytes": 1271,
+    "sha256": "c23cae3dcb0b75d2b992d4e8d61ef54f7fd3975af2ad4614af7049aa01acff43",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_31.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_32.png",
+    "bytes": 1115,
+    "sha256": "2446f0d0710f89a78769add2506c6f56086bf8604446d4e56bf8e3af487122f0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_32.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_33.png",
+    "bytes": 1295,
+    "sha256": "e7e423fd3132ee70d495106ca2838f2b487944c99a8c0ff181710e7676d1a358",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_33.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_34.png",
+    "bytes": 1162,
+    "sha256": "1766eb4913d18c6790c80bb3b7747c601293465e8b3fed946816be7542e5697b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_34.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_35.png",
+    "bytes": 1260,
+    "sha256": "daab2762f88321d025da2e561082b14c5ac7a546b50bc0d2cd5d4ed5906211c7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_35.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_36.png",
+    "bytes": 1108,
+    "sha256": "9dd4756662051e9f1af55d6f9e73321630d76a84efdce64af62145fc9286dca7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_36.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_37.png",
+    "bytes": 1188,
+    "sha256": "2ea5b3b4ed37ad669e5e393f87f5ef933803af950b991e978d98c9d89b2558fb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_37.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_38.png",
+    "bytes": 1079,
+    "sha256": "5233e4321b80a487f206d85e5b6059e4b1a38a304177a89e222426919c8d0a4e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_38.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_39.png",
+    "bytes": 1184,
+    "sha256": "6cb18b5ffe8a0c075cbc64e0d11ad18d3efcf73cadf726141ccde0f4a1019b9b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_39.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_40.png",
+    "bytes": 1093,
+    "sha256": "41631e4234e9ab0dd4c520923d2adbdc71c1c062f9d12d2be3d037a6c98defb6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_40.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_41.png",
+    "bytes": 1186,
+    "sha256": "bc414d0ba858405fd7fb0813e392afb1f71a609a1757d6c246b0bb7d84dea292",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_41.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_42.png",
+    "bytes": 1255,
+    "sha256": "e983b5b84009c9bc0e173a4f5169a5414923931787f0ff5e82a85256fe935b5c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_42.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_43.png",
+    "bytes": 1161,
+    "sha256": "b985aea483019ea0d0666124d6ba98f03337d316538156b5938df497bfa9218c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_43.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_44.png",
+    "bytes": 1176,
+    "sha256": "7a15a4868f4529816d082dc9c91b702d0af1006235c7a6feca60be7616e7a765",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_44.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_45.png",
+    "bytes": 1049,
+    "sha256": "5b76ff09216c89610ef78791307ab052860caa7de59b0c0149cdc83231d59da9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_45.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_46.png",
+    "bytes": 1180,
+    "sha256": "7b5bad32b270f0f4f44f89743b78fbcf126c6c1b877d7ccd4878554b78b49d64",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_46.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_47.png",
+    "bytes": 1093,
+    "sha256": "6d10ee893fda619f622f391d6abf03d933a1e5764b55cf70fa4a6b502e268e36",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_47.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_48.png",
+    "bytes": 1208,
+    "sha256": "4eceb35363e815cfb7507fc8269d81a4b62cc38bcda5869857123c87a6b1728d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_48.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_49.png",
+    "bytes": 1104,
+    "sha256": "fdde1dc60d2bfb3237ef8658d5f812d7768d56b83429c6ba3b9391834267c515",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_49.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_50.png",
+    "bytes": 1215,
+    "sha256": "350074d596086224b5fa623c23defbf3f2e3acaabdce9685911456cfbdc0e3ec",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_50.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_51.png",
+    "bytes": 1170,
+    "sha256": "48b441593d3c183583520a36887b579548d32da025a5440219427f4f2f7bc61d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_51.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_52.png",
+    "bytes": 1024,
+    "sha256": "89e7b17855b62d22037167dc6019ac1184533a9a632b8484fc7bbd7e2dcefe69",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_52.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_53.png",
+    "bytes": 1156,
+    "sha256": "3f847f776b09ba3a24e07f2c9a91df66aa17dd6a23ff92014e03afc58ee77f59",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_53.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_54.png",
+    "bytes": 1114,
+    "sha256": "f3126795684c64d98db7f8474c1459d4b01b1d1d326ad4328aee78361ebc58e2",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_54.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_55.png",
+    "bytes": 1318,
+    "sha256": "0d885bd7c0e73a4d9701e737b0686c47dfd7ae86b3b6501bb3ca62a9229194fe",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_55.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_56.png",
+    "bytes": 1040,
+    "sha256": "0c4e2cdb5c3881b0b2fba77a8fe529a161a2c21887222898542a640c67d5c75f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_56.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_57.png",
+    "bytes": 1180,
+    "sha256": "4722780ef8a2f0fc0e2f2c7f3c669ab7c400e18026b7296d84b3674bbec2a4ac",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_57.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_58.png",
+    "bytes": 1053,
+    "sha256": "34d759166925f290b1ec6d2cd2c53d5925cc2a226cdea5769dcece1f7b5bdb9d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_58.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_59.png",
+    "bytes": 1164,
+    "sha256": "6b95f0fd496464c4a97b87663f347d2daab1e7223b3dceb17976e5f337498fa4",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_59.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_60.png",
+    "bytes": 1043,
+    "sha256": "32de5ca2ac84a6ce757760d706912aabd867fb64419b463eccf7478900f6a3fa",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_60.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_61.png",
+    "bytes": 1163,
+    "sha256": "93b557683fcefcade01c848e39e48870365bec81fe7b1233c0d5822d7c5de111",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_61.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_62.png",
+    "bytes": 1155,
+    "sha256": "0ab259674f69301c5587509c55a247f68099216e4ded3a0fe1e55b9bfbc118fa",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_62.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_63.png",
+    "bytes": 1085,
+    "sha256": "65d9a55413277a90ca7d9da09d85123ecbee94d386faa6526a1618cbd1395dc0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_63.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_64.png",
+    "bytes": 1265,
+    "sha256": "8f70fff1794b9620b07a7314377af5555b4c41628c46be736cc203313dcb6c22",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_64.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_65.png",
+    "bytes": 1139,
+    "sha256": "557bb5407c030aecc8eaef1dca1a6a1c60f58a7411a334ef1a49cc1bf6769ae5",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_65.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_66.png",
+    "bytes": 1173,
+    "sha256": "ac633086603bfb231c2de81c2829bf5a901ec5cd9d34ed9205b2361166626c75",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_66.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_67.png",
+    "bytes": 1030,
+    "sha256": "297edd47b9cf0bfc972e3063a4936483ccf7f9fc4c8d19928a22a45854e61188",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_67.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_68.png",
+    "bytes": 1212,
+    "sha256": "19e5d926b5f716accaac576bb024ac05bba7269eab8bed5a4a6f45d9131cfdc0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_68.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_69.png",
+    "bytes": 1028,
+    "sha256": "e6093d91d7f37a725475c4ff2a0bcf306d1984d1e8b6b2f0bef04e86e3822d44",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_69.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_70.png",
+    "bytes": 1154,
+    "sha256": "caa0f0831b08cd7f85bdfa841011fbc1bb02111004251e64022e4e90e52b86d6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_70.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_71.png",
+    "bytes": 1302,
+    "sha256": "07e6a3973413eb5cdf3b7db63bdb8558a808b9b9ef60ed79c95460b7277e3f9a",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_71.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_72.png",
+    "bytes": 1023,
+    "sha256": "ed4ef9368099d2b0595c4372ac801b3ba189cd9d0882c242f2cc17410cc2a00c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_72.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_73.png",
+    "bytes": 1228,
+    "sha256": "5ef6789fc840dbf0a228653fb66d391ab156a039addb84fa97de22cc65a5cf29",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_73.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_74.png",
+    "bytes": 1021,
+    "sha256": "02e99ede900f19ac698d53dfda3807f024e4acd56934294d61cefa027c9675d1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_74.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_75.png",
+    "bytes": 1284,
+    "sha256": "8e9c878aa3b8f9f1114f56c3526ae64c027fc621695c402a9d7441465be44dce",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_75.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_76.png",
+    "bytes": 1201,
+    "sha256": "cc671c83de4cc2ef12062a7bff79db978585504a9ccd3672411af69853da2ccd",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_76.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_77.png",
+    "bytes": 1311,
+    "sha256": "33932253dd42ff831b54907d20f3f4b5fa210c875c46bf8c15ad14351a2f3421",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_77.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_78.png",
+    "bytes": 1071,
+    "sha256": "b2ed37bacdb438065503db2da0d2d2cc3649ba4cf22efd8e2e2bfd632b1b360a",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_78.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_79.png",
+    "bytes": 1158,
+    "sha256": "d2c9ba33860da651d85f1a5f0bbc20e24c79c26e47eeec003d25d990248bd7b6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_79.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_80.png",
+    "bytes": 1031,
+    "sha256": "dacd38fc6bf7613db1c207d1114c7c1b9cb0168b71b444ace28c6f429d75b603",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_80.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_81.png",
+    "bytes": 1085,
+    "sha256": "ebe6dbde96c0fa0e3deb06ecd4c690dab1d45faca87e12c612486865ab9a2ee2",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_81.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_82.png",
+    "bytes": 1232,
+    "sha256": "8497f328c07c21a051318f760ac5a06d8e427f7cf0ea777c371913c4a952b9a3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_82.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_83.png",
+    "bytes": 1014,
+    "sha256": "94b2f3aaf57ae634017e4e9ad3f2231dcbf6b0f0fe1b6ea6adebc441ad4ea302",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_83.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_84.png",
+    "bytes": 1160,
+    "sha256": "aa24aef2561a0653d18406ec10f57f4fa3c21e917ae82c46fff7f253a3a923d6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_84.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_85.png",
+    "bytes": 1035,
+    "sha256": "39907e0a4fda946d7db6455a14b54d7db56a8af1953dac051762c86f5879354d",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_85.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_86.png",
+    "bytes": 1160,
+    "sha256": "0f686f39f636575bade2dbd3b90de8334078038621270768b1a49d345faad2ad",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_86.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_87.png",
+    "bytes": 1025,
+    "sha256": "5676a3ccf17b6fb92f51b4efde55ed833f7a4d4ccf5f4ed0315dd7e5ed2c7af9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_87.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_88.png",
+    "bytes": 1166,
+    "sha256": "94985c1a6c368744a825dc589140ac4ccb78c3f85c8853f6fc6dc6695b303220",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_88.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_89.png",
+    "bytes": 1022,
+    "sha256": "b42fb9fc06c51988bccf5a4b0326727981d091deb2792d4321e7f1b1f1618b86",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_89.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_90.png",
+    "bytes": 1149,
+    "sha256": "fb1903b8bac87a97a5a1798350817399789524b5f30b8efe8923f8e62ca6aa97",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_90.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_91.png",
+    "bytes": 1204,
+    "sha256": "84a4eca8e7ebd91be8a23f417e35f7e44ad58f396bdfe8055cc72a5a99399004",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_91.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_92.png",
+    "bytes": 1023,
+    "sha256": "33e4692d326cbe6519bca2ebfdbf439913221b454134bb385396ac7e73d1609e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_92.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_93.png",
+    "bytes": 1177,
+    "sha256": "a5cdfae61096ca3caf01dc64806535d15db0cb0e937f1b8df24f4fb1bdf3a915",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_93.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_94.png",
+    "bytes": 1030,
+    "sha256": "b46f58765ef9cc54f23c96adbe21059a524bbf491fe2df44ea0713f425930345",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_94.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_95.png",
+    "bytes": 1152,
+    "sha256": "4d8ea7bdf8cdace18da728243d11dc845ef61f66151cb8ac9c71a75dd684ae06",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_95.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_96.png",
+    "bytes": 1034,
+    "sha256": "3a51017d29e5dad0471d88ecfbf5dcdd8c1582b92fa748426e047beacbb3c501",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_96.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_97.png",
+    "bytes": 1160,
+    "sha256": "a6dd1b1a3fd504bb66161336a26af58640c4183b4824b12935b6dd0bfa782cba",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_97.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_98.png",
+    "bytes": 1039,
+    "sha256": "be302a9a192d3b7032a46231ef17b5f11b356cafdc203e2f22bf7e59d85f71ef",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_98.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_99.png",
+    "bytes": 1160,
+    "sha256": "fd3b2c1e0bdd7d5a119f90081b5853288be8b4d36d4ae392ecede6a574deae1b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/1 Tiles/Tile_99.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/1.png",
+    "bytes": 1732,
+    "sha256": "a0092f5eaaf564fe946796bb2eff1ae22cac8e7c05c6f8b5823c65dc5e6e4bbd",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/2.png",
+    "bytes": 4554,
+    "sha256": "2bad56b4e9aaa748616369aa8e983adf24ae750cfcce3f334903be9cea5c3a56",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/3.png",
+    "bytes": 4229,
+    "sha256": "a77104d6585c0f13cf437aee76b5021446e6e2d8ed5159469103f4663e094539",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/4.png",
+    "bytes": 1606,
+    "sha256": "e289ab5268598872127ad80595c7a7dc4d591ce41ec8a3c53b3741d342853d75",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/5.png",
+    "bytes": 3110,
+    "sha256": "c3926c2e4f420a0b3a1c60d34ba2ecf8a0fd7ea4ae3f00ac3687f4cea7e56fe6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/1.png",
+    "bytes": 1732,
+    "sha256": "1ad8a6d20fee4b70f60715d885b562991ff94896fb82627cd6de07d5ba29edf9",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/2.png",
+    "bytes": 4554,
+    "sha256": "9a3aa7bc5ed358100bc9973b7d34e859ec2fd6f214b26e5b8c4a7c490786a8f3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/3.png",
+    "bytes": 4229,
+    "sha256": "695e51a881bd6a3b8338cfb26de38ffcb703f0d256f22aed7410d134a910d5c0",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/4.png",
+    "bytes": 1606,
+    "sha256": "9f2a437a02bd1c5979659fe51f3f741508392c9dade22fb251e2daf27fe1e07c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/5.png",
+    "bytes": 3110,
+    "sha256": "4d0383228b3a270ab28e504c27e4d5b4ad0a73f2810ea8c6dbea9d9ab60a766e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Overlay_illumination.png",
+    "bytes": 181021,
+    "sha256": "7f2be1862e2d0b1d8f460f29cfc6d1b94c81667cd5d2dce6ff582855940ab52b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/2 Background/Overlay_illumination.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/1.png",
+    "bytes": 1072,
+    "sha256": "dc37a184e5b2596578788c2fd61e28dc4c53cfc58bae6769f1557dc92442eddb",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/2.png",
+    "bytes": 1083,
+    "sha256": "33e73b05c45b702dd3b82691101e7076dc6e9f8d1d993d377050df550aea6aff",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/3.png",
+    "bytes": 1078,
+    "sha256": "88f6e8feb1b67f0816d17f84ae72c12c96d72b20f182f905d660487fb295d809",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Lamps/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/1.png",
+    "bytes": 1133,
+    "sha256": "fdf6b3cff6068942246502a7abbf1ff7355c9f3f1789091bcc49a0356e4dd6a7",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/10.png",
+    "bytes": 1177,
+    "sha256": "57073863d9c0c175e3cc644c77ec3db70f1a9f02a57b915845fb77d6af4f0715",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/10.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/11.png",
+    "bytes": 1150,
+    "sha256": "d4c23b6d786d204afaa40f43fabae0ca7d9a3665348c705ebcf18648d06d0768",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/11.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/12.png",
+    "bytes": 1135,
+    "sha256": "45c2cc55a2753bc9c3f219c159ab71c691816c88a6a286739397df384c68edea",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/12.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/2.png",
+    "bytes": 1142,
+    "sha256": "c2d78993226dbce4e3d9955b2cde111c92144e1ab777c13a194ed6d0d4cf6f08",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/3.png",
+    "bytes": 1168,
+    "sha256": "d67d7a80b02ad894b6dd3b124303c4c325ad565b3c0e34a4fc1e9d6a793a7cf1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/4.png",
+    "bytes": 1123,
+    "sha256": "078156b156828dd522b9fe95e63f1509b9fbea6375e58ab8f6b8a1d1b24391e1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/5.png",
+    "bytes": 1149,
+    "sha256": "a89b0a6ff547132ae73b0596ba9be7e3090668337f6491d8951c067f2c122bdd",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/6.png",
+    "bytes": 1258,
+    "sha256": "6d94de9adedcda72ce0cc55c82c8ab27b81d1abc7320d80be61881e483e12687",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/7.png",
+    "bytes": 1074,
+    "sha256": "dfa40951817be26926bd71a7d447d0ac408638f330ca482810fb5c1cb6616a74",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/7.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/8.png",
+    "bytes": 1092,
+    "sha256": "e262a578012a3fbcee1c69cdb29c07d0619d6cfff1a28b596ccbbd7280171f27",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/8.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/9.png",
+    "bytes": 1389,
+    "sha256": "2ccb9a6901aa433ad9e01960291976afca042cab9a8e73dd59860d05a7df162e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Signboards/9.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/1.png",
+    "bytes": 1085,
+    "sha256": "ca8b19e1633eb4d3b6f6924d5b648494fa238e06b27503d1236b81f38842ff61",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/2.png",
+    "bytes": 1024,
+    "sha256": "e4f9b50752d62689b606904df33bfa7f097fbe48967cc246af28900692c3c2e1",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/3.png",
+    "bytes": 1031,
+    "sha256": "2a97f330f2f0f00f5cba0b0e58dd65e113fa67f0f332b16fd3cdff08a06f512f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/4.png",
+    "bytes": 1021,
+    "sha256": "883e65ac981dd208d1c2fb2fc9943368b4fec674a29cb21a629c6ffd4a4db2c6",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/5.png",
+    "bytes": 1031,
+    "sha256": "2ff066da57a2f3e2b6ccce23f266843610fbbbc05aa27f2f5cac8ae64b792d5e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/6.png",
+    "bytes": 1263,
+    "sha256": "e33d8bb6b9f9f3f37df1081c2d84add415eca22d9de7244543ba3ba1e693557c",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Terrace/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/1.png",
+    "bytes": 1249,
+    "sha256": "ae25a46bffe66a4f7e2523376bb729d5b841c45e114f1279c80746c65e67faf5",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/2.png",
+    "bytes": 1128,
+    "sha256": "06e5f1ea7f19968b04b9489011b3905fc2c5671f2cc2b97ea3e16f6df009235e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/3.png",
+    "bytes": 1142,
+    "sha256": "5dfea71139112dcbe27fb5c61920f948181b9fed71e9a3d4966d9810d8f61963",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/4.png",
+    "bytes": 1213,
+    "sha256": "955803b638957c0d853692aae992eea30b917a062d7a644fd32188c0920c529f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/5.png",
+    "bytes": 1172,
+    "sha256": "38f99e0c92375275c5056cb37a19dd012d43991851e06e4b55f0aca606c38ca8",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/6.png",
+    "bytes": 1056,
+    "sha256": "8911115a078ffbea682ab486a9da8436aa506998bf38f8395b8af7446f5ff69b",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/7.png",
+    "bytes": 1160,
+    "sha256": "46ef5d6a6d3c6aca74a8d2505688f9986fde909060ca60afe41ce73cab5dd329",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/3 Objects/Vending machines/7.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Card.png",
+    "bytes": 3119,
+    "sha256": "72339bfcaae88a500b2fa346efa758f5fd8bde1cb05a63cca84d819fc79d6bfc",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Card.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Money.png",
+    "bytes": 1304,
+    "sha256": "cd295133222d4d0cb6f1cbd400274072d9295fa0b445729e98737ed11c33101f",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/4 Animated objects/Money.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/Font.txt",
+    "bytes": 63,
+    "sha256": "b9fafd19b4745fc03f210aadb6a6a8aef3cb43e1ba81032ae3b68bff6c2ef046",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/Font.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Background.psd",
+    "bytes": 455907,
+    "sha256": "578739f114accba7bd5afd241ef3b15c1aed55c1de49fd6f0d30cd621159ed87",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Background.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Objects.psd",
+    "bytes": 320460,
+    "sha256": "e737b2dddd55bd37cf0bc503c1180fe6c21397511b261b1e5ba5cc39038c50af",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Objects.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards.psd",
+    "bytes": 216849,
+    "sha256": "145e2ecd3dbb9c7ad96eb1b756ad6d2e01a2d3970d58b6738ebda8b1a31bc43e",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards_creator.psd",
+    "bytes": 177652,
+    "sha256": "56bd7325975985a301dfa3df747014c33b5caa386916a7d8205c63b36538c9b3",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Signboards_creator.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.png",
+    "bytes": 6877,
+    "sha256": "93bc57de29658134c1aeb73a9cb0887aab8068eaf37d0a04b82b4f4677f9c3af",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.psd",
+    "bytes": 756288,
+    "sha256": "ce32d6bf21c045ef878a5a1642349f4b3d668334c02632432e9e506eddfc5350",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/PSD/Tiles.psd"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/craftpix-net-153816-cyberpunk-market-street-pixel-art/license.txt",
+    "bytes": 35,
+    "sha256": "0c0f673571adbb935c734ac17fbc6e51fb4368a225b915aa25031712b03960d4",
+    "restored_paths": [
+      "source_materials/map/craftpix-net-153816-cyberpunk-market-street-pixel-art/license.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/map2.tsx",
+    "bytes": 291,
+    "sha256": "0e273086eab1e3c85916bda468f8726c2234110ca61f8ae8b6c788cd0f2ec985",
+    "restored_paths": [
+      "source_materials/map/map2.tsx"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/untitled.tiled-project",
+    "bytes": 223,
+    "sha256": "c9587ce5859875c3f47095ee98a09596bfce2265dfe808030297e442572786f3",
+    "restored_paths": [
+      "source_materials/map/untitled.tiled-project"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "map/untitled.tiled-session",
+    "bytes": 801,
+    "sha256": "2a553e8fc517070b36f5db3819428c5c99329ace872dad672333029c6e16b3a7",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "Сценарий.pages",
+    "bytes": 199308,
+    "sha256": "4d81a25ee4bb497b616d2abd0af8bba0c20c630ce71604d85e85d7209d56e9fa",
+    "restored_paths": [
+      "docs/scenario.pages"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/!!!39a7c3109bce7aba7ae6761626ee7def.jpg",
+    "bytes": 100180,
+    "sha256": "8385bf28b4cc4adddd7391fee5021e284e241bfab737e740bbdf3f5744b1fd85",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/01a675789351648010e3440d9a287f3f.jpg",
+    "bytes": 97271,
+    "sha256": "cfb70b6df6b164bb0745c9bb3dba076ea9e5e318e04fbd34f14678112a0444ee",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/0aef176ecf543cbf294ea295fc2d418f.gif",
+    "bytes": 175969,
+    "sha256": "0b7608538494faaa72a6ed5eccc1d059fb580841a7d33b90c534e7de695a16b1",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/1a1d040859874ac18fc32dfc757d5bfe.jpg",
+    "bytes": 167992,
+    "sha256": "67ec8d827161aa2ad4e921f4c1d5fa7fd5d8321ed5b82bf869b6bebae1302278",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/22f86c38cc70b943269d6578b485b6d8.jpg",
+    "bytes": 23944,
+    "sha256": "8a657be9545bf944e639082ad4e78fa50fdb91539d009fda05ec63a88eb57da0",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/26dea401d72b5cd0647e6a449fd8bfba.jpg",
+    "bytes": 42474,
+    "sha256": "8c89ea31996a8f51b67933723ef094a06d78e0b76ceea7c64abb9446e772a1bc",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/34f5c1a682c83a1fb63ebade3f1a6489.jpg",
+    "bytes": 45909,
+    "sha256": "87a868a41f731c816e779e8bff9c6f8842269adebf277cc61f6cfa8a1dfd4d8e",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/609ba220ad8d3e14efb9bb4c148bbb3f.jpg",
+    "bytes": 107297,
+    "sha256": "7492650ff69c978b7cc02c4aa2f9114717c31b1862a7f0df795f9bef5792a9d8",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/6d6d848581b86c4d49ee183a7508bc80.gif",
+    "bytes": 765313,
+    "sha256": "83ac31a83c5718ac57d1271290a3cea32a37aa3ab4580ce04ea0be21d7298553",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/7428c11c2dad1400e2321f12bb0a4ca1.jpg",
+    "bytes": 89761,
+    "sha256": "c18f4fce6001f4bdb57253c352de565042721fb700fc41bd215578ed78fa5a2f",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/9abea4b00c686744e4ea7b0476dff2af.gif",
+    "bytes": 216909,
+    "sha256": "acb22447ca635d85431ef0cff6f2020b7e42ad2c1a6011a628b5b6b6d37fcec6",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/ChatGPT Image 21 апр. 2025 г., 18_43_50.png",
+    "bytes": 1988833,
+    "sha256": "7390c192335d3ca91309956d17f72d5a767a25adeaf0edb97da23f993252eda0",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/IMG_5652.JPG",
+    "bytes": 367063,
+    "sha256": "c18109f67574f604829eda4d8d27824f1759fa917dbb14f3656c1bcc6b525c65",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/IMG_5653.JPG",
+    "bytes": 314889,
+    "sha256": "9ab84d5099cd7b7157c6410a343fd460e0d2eba620365b72576d531bb9cf188b",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/IMG_5656.JPG",
+    "bytes": 110875,
+    "sha256": "9ee4b6ef53121870460aa1c9d491d8e1431b980438c1331a91f886fb0ed14963",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/Screenshot 2024-11-13 at 01.54.22.png",
+    "bytes": 8855407,
+    "sha256": "c5b62db70fe5b2207887b6872ca34abee11456c66fcbc45ea7fe75ab54305cbb",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/cf304330475cf915282a0738a8b57fbf.jpg",
+    "bytes": 53552,
+    "sha256": "2796617e7555d15292d93a6e8e1c4f28ce38277456962dc2fa3b993455beda5a",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/1.png",
+    "bytes": 6977,
+    "sha256": "15f8c8dc6bd168ecb61b7914ac63f66d0c1008939c447accf624cd4f8bc82435",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/10.png",
+    "bytes": 36684,
+    "sha256": "4ff3b866d5a0e218767d88cc125072eac5ee1996641a0d4953acf9bf9b70fe17",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/10.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/2.png",
+    "bytes": 3268,
+    "sha256": "a49d89333df7946e9c2268253f61ed46f6559498d20857df9e1705bb87c288f5",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/3.png",
+    "bytes": 3237,
+    "sha256": "c6057e9ebd00ee757dc18239b9ccfc609c45f491d1b5ca5c0e5cc656e880bb31",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/4.png",
+    "bytes": 2537,
+    "sha256": "dab002ccdc79003c6b51c27a96a25c8a49bcbc2e659e7a5e6a173f5994217b91",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/5.png",
+    "bytes": 2816,
+    "sha256": "c66c3b243c58ee3b21fcffd2002ce05456030b0a689d5f38ebf7abda6d3b4f6b",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/6.png",
+    "bytes": 3164,
+    "sha256": "27ec757625987871f538eaa3da0765e6261313920fb080b1c15b55aa6e14daf3",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/6.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/7.png",
+    "bytes": 13250,
+    "sha256": "950466e72d5a320acddb7e223da0a534c3931f0a515534a3ede40a551db837c2",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/7.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/COUPON.pdf",
+    "bytes": 220599,
+    "sha256": "b5fe5393caf989761d71a473ec9f44042dc3ec52c0525b3bea66bbae64549021",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/COUPON.pdf"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/COUPON.png",
+    "bytes": 993936,
+    "sha256": "7476d28a5a123269154120910e53c8973117eb370315a5709465339375085922",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/COUPON.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art/Free Assets Craftpix!.url",
+    "bytes": 120,
+    "sha256": "2f6c5b6d26e365a04aa331e73fa03ca92167d8ba43eb31e64da79c23146fbe84",
+    "restored_paths": [
+      "source_materials/city_parallax_background_with_buildings_pixel_art/Free Assets Craftpix!.url"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/city_parallax_background_with_buildings_pixel_art.zip",
+    "bytes": 1156746,
+    "sha256": "7513be819c5a73320afd5508332dbc043aef4721a7c81cb84f674da34cc4efd5",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/d065287382f6032cd0124a52c6749dda.jpg",
+    "bytes": 91879,
+    "sha256": "0ccd4397ce4baea1314f2e59d0e74f759e4c3c388817828dd62ac80b962d8177",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/d09c22cceb3adff1302642e3b54d0bb2.jpg",
+    "bytes": 167478,
+    "sha256": "36a930525567f47c0336c98ccfdeb8eccf38eaa9b1539b857761d39069f42e42",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/e1e1af22c44fe6178f01676f2a5569dd.jpg",
+    "bytes": 32900,
+    "sha256": "84e4653fa1b3776dfb32e50cee92fa16fa146903f4e74b928f2ec157eb31f21a",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/eaf34ab3b6983358e8ce1d745da8e40a.gif",
+    "bytes": 1963359,
+    "sha256": "94e76b3df309bacf511edb15ae52d70da6e58570be532a4ed83b38db343adaf5",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/ef3fda048a71f0eb5c8bab3898234331.gif",
+    "bytes": 650654,
+    "sha256": "97de93b889b8cb9f5515a5de73a8ddeb96b232c0f20e2c28b43d4a6a87b76499",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/f3cacfb4f89c6ebc45b75e69650a47db.jpg",
+    "bytes": 45494,
+    "sha256": "59cf21fbd7a43fc92a292da1ac299304f993f9d57a786dd6f69fa75729550b85",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/f41f17c5506f7e8fabe5cf6bef0b22bf.jpg",
+    "bytes": 132397,
+    "sha256": "42e19c983a04a1a58ea80037d488db4cdf6a9a45ff5a1bea659a464ffa906e2e",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/1.png",
+    "bytes": 1732,
+    "sha256": "7faca5777d86367a884a8ade577ff9114f08a4e7f9e061ca300e37970c6cccef",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/2.png",
+    "bytes": 2532,
+    "sha256": "138dda4c84ffc82fd71e82dc8fe0de8187e0802b0d0a6c4dd50989a1d744794a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/3.png",
+    "bytes": 3541,
+    "sha256": "feba7e1f094777a4a1a163175d5e0ac287d361e167eecf3b61668c51cff9679f",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/4.png",
+    "bytes": 1604,
+    "sha256": "fe92916666d5a30eb51c1d4683a5bbd5c363dae6d0a286ac8050648fbf769ba7",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/5.png",
+    "bytes": 2610,
+    "sha256": "844bc9b2982f9517a4ddac675b0d23f515cf7ef4a486eae3f800d2133419b39e",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/1.png",
+    "bytes": 1732,
+    "sha256": "54ff16f742e905fb82562a5136eac931d60394f53a8493ca72a2e462a04d798a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/1.png",
+      "levels/intro/assets/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/2.png",
+    "bytes": 2532,
+    "sha256": "a80b4937df837b4089f5b2d632054d0bb4042d8b5c49ce9f4fabcddd8e6340c5",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/2.png",
+      "levels/intro/assets/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/3.png",
+    "bytes": 3541,
+    "sha256": "5b47dfe40ccfc07e245c6528f0b8ca33e4a7f937ecec7dc536c2c26799de023b",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/3.png",
+      "levels/intro/assets/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/4.png",
+    "bytes": 1604,
+    "sha256": "aa737a9324133bc6c96db069679e2f2a82cf699453e39b63c5ff0931e8ce7618",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/4.png",
+      "levels/intro/assets/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/5.png",
+    "bytes": 2610,
+    "sha256": "2d6f82e96ee75b7f7308ccecced8ea65c2bc5b73d9760503a2fd82626209e586",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/1/Night/5.png",
+      "levels/intro/assets/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/1.png",
+    "bytes": 1732,
+    "sha256": "6d29a63ffb547068fec1e12d622dfcea2bd068c237df8416792e65eb11db358f",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/2.png",
+    "bytes": 2780,
+    "sha256": "f9e94b32b9c48c49666252cfc15809ba262068146c69c6b5620b0d65c2a330db",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/3.png",
+    "bytes": 3110,
+    "sha256": "d6b80b0af2af20ed81365557165e65dc2c02a97e89b14eab48940acc2243c37e",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/4.png",
+    "bytes": 1604,
+    "sha256": "9272fc20e4243abbff3601dc8d74d85e0ae9b1abb3fca075164eb8341a8bcd80",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/5.png",
+    "bytes": 3584,
+    "sha256": "63a52be930571940fadbb211ca463885a0fbd6ab85351f41f0e54a04e76464c3",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/1.png",
+    "bytes": 1732,
+    "sha256": "e23bd3a17261034f4afbc541a887087226ca80d59acee23ba14de08ae26bbf6f",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/2.png",
+    "bytes": 2780,
+    "sha256": "1509935b168aeb3ad66f74f3c911164ad0925bcbc72587af74b85227a7a572be",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/3.png",
+    "bytes": 3110,
+    "sha256": "c108f683e0d53cdab37b2d610f82841e721944ba867ee9d3a1d7d610e88eacb3",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/4.png",
+    "bytes": 1604,
+    "sha256": "d775caad23e0a80ebeec1b3b42bdd49e1c5eafe24aaef3fe79fb7b3bfc04e0d8",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/5.png",
+    "bytes": 3584,
+    "sha256": "9c8613364d279449408518a5119f4d53365a202fcf7dedfe589bb604f19035ae",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/2/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/1.png",
+    "bytes": 1732,
+    "sha256": "c792b516b58719d414f69024de896f3052a2505c16b6c5ae742e1ef69dae134a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/2.png",
+    "bytes": 3096,
+    "sha256": "71a66e450cc09431eb8298d8dc18d6b95b79c72c9a1150b86c438e87a732ee3a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/3.png",
+    "bytes": 2567,
+    "sha256": "3b186932fbcc4aa548a0b5b3a2b5e3db6066c3d959035daed701776fd1fcfbb3",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/4.png",
+    "bytes": 1604,
+    "sha256": "a3b11f2c51fd3a6ae1ee0627bc66ac7575f2e1df2d44f5d752a69e882f3a555f",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/5.png",
+    "bytes": 2964,
+    "sha256": "083baae31abf00bbdc406adbc3758220fb2477d16542d607f7eda65e9b0d93a0",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/1.png",
+    "bytes": 1732,
+    "sha256": "754d1411991e1aed1f0a0448f8ba7dcfa9eab70365fc3a75823f9ba2121534d6",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/2.png",
+    "bytes": 3096,
+    "sha256": "e53d3c0ce7a6b9b98df9f937426c76f20af9a4ed8ad4f28c317c00c6b2df8512",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/3.png",
+    "bytes": 2567,
+    "sha256": "867e9b605a7c34d764df7fcb122b3ca4c677fa3c31684299bda150314f629c38",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/4.png",
+    "bytes": 1604,
+    "sha256": "6ff2a59c7e572df747c79b5d935853946fb5105383491de5dc763341e39f9378",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/5.png",
+    "bytes": 2964,
+    "sha256": "19c4196e16c58aef91e39eaec424d1046d3987f8a42d7ce90c4ccd4ee43f735d",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/3/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/1.png",
+    "bytes": 1732,
+    "sha256": "ffc95a568a1fdd25c45a75491eaf28a7df5d3f01ad2df10573573467c5edf916",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/2.png",
+    "bytes": 2319,
+    "sha256": "54d8cb903af6490d12788544c6c94dc6f05348b2470e3cd33ae9ad04106b6482",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/3.png",
+    "bytes": 2725,
+    "sha256": "a75b38144302051db602786c466edbeeacc477b719686e94c249be0dd5ad2de9",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/4.png",
+    "bytes": 1604,
+    "sha256": "c769235945110d7a01138d2e78a93e3ad9e0e732716d20888c80f791fc968abc",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/5.png",
+    "bytes": 2595,
+    "sha256": "ba3c79c1c30580fa5d128e257d19db4adb8ea83e6b5a80cf1c1e0ba264307017",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/1.png",
+    "bytes": 1732,
+    "sha256": "9054e48ea3ccf7a83cb8b7e56a33b5ae9eecc52eecbae98658978ed93890f38f",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/2.png",
+    "bytes": 2319,
+    "sha256": "86558036f86f71a741254f1eaa16cc746b5430141b086cc6209eba3632e93134",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/3.png",
+    "bytes": 2725,
+    "sha256": "aa61a08e404449849bc67e5d4b24d4aa524cbe199fa12be62a87ec9280ebe064",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/4.png",
+    "bytes": 1604,
+    "sha256": "9b48554641d1aaefc3040c324a4ad23e5027f18e4334b06bda6f1e2ba1a135d0",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/5.png",
+    "bytes": 2595,
+    "sha256": "4eede69451b8978d14ddbd04af2e2342be765187ef6c80f7324cdc5f09ce1518",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/4/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/1.png",
+    "bytes": 1732,
+    "sha256": "952be49ddbdf64e4c6726241432b4f72b66407da74d6907375a7eb88434c1fdb",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/2.png",
+    "bytes": 2876,
+    "sha256": "edfe054d35fda26d3b09a03583e1ab245458cbc934a584bd255061536239660c",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/3.png",
+    "bytes": 2666,
+    "sha256": "c9cb94d401f7d2ab134516d81836f93af779e3408f29d22fe7fd5770cd36ea7d",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/4.png",
+    "bytes": 1604,
+    "sha256": "874cf4a9f92ec0b936c081a46bc669f008518437b6d8853750e094213b46d8ac",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/5.png",
+    "bytes": 2490,
+    "sha256": "7dc0020eb32f68eb9cf1b446ee625da15d43e61f9cba16e79295840bd1983102",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/1.png",
+    "bytes": 1732,
+    "sha256": "cbced71ef6c1e6174efd4a5a088c9d4a8e0131ba5a28c3c7de452aefa0fec129",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/2.png",
+    "bytes": 2876,
+    "sha256": "064b7dcbd8b5cea8c985bbbbaacfbe37ed9463948dff40b79e65080940fe743a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/3.png",
+    "bytes": 2666,
+    "sha256": "aba6dbf185d1c503d84e3359925a94c8a5beb2345e08d618868e0282efdf328b",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/4.png",
+    "bytes": 1604,
+    "sha256": "94142e1d4040dce25601cff92d3e034f42f99aae030d1f3c0922fe269b57c457",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/5.png",
+    "bytes": 2490,
+    "sha256": "3012be6e65a6d56e30516e4942d7d55ca20d8c1d89afc4ae56223b025e310077",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/5/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/1.png",
+    "bytes": 1732,
+    "sha256": "677241c9affc3f650f7d7e120624cde478c83d4a018c50b4a33adc3bdc06dbb5",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/2.png",
+    "bytes": 2829,
+    "sha256": "3100bcf2e4300895c2b1ba5799e1b74fe2eb9454c0f8821cee707faf71598e90",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/3.png",
+    "bytes": 3057,
+    "sha256": "55133cc09c93a646d8293387bab0167b664359305988b95adaaf3903d1ebb040",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/4.png",
+    "bytes": 1604,
+    "sha256": "320f3fff87e7852c65d65efb73d5b25cf352bdd8437f819cc06d18bae3cc0c84",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/5.png",
+    "bytes": 3122,
+    "sha256": "c953fd5155ed7b2fe3d0cb3a6b5b9de3f5e0a37e0322dcc9e2da1f4911c487a9",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/1.png",
+    "bytes": 1732,
+    "sha256": "68bc8a87eb688a753fab6d201fdf7322471f1c10c178ef4e33ec94e368bddf04",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/2.png",
+    "bytes": 2829,
+    "sha256": "6891fc4205c2f147003dec1c49ca2744d55511c87e66790312508820643759ab",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/3.png",
+    "bytes": 3057,
+    "sha256": "26c1c0628e795c8c3396cab4f71c9ef47bcd6bbc73088511b94c8adb3c3ae64e",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/4.png",
+    "bytes": 1604,
+    "sha256": "7fdc4168953fa20c18361770ed5c6baf24de368bf0a3183311c74f576ec428ce",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/5.png",
+    "bytes": 3122,
+    "sha256": "06985198f059e688fa3c04de09d023fc6e27379dfd2b5c830d2d173c3a67fb2e",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/6/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/1.png",
+    "bytes": 1732,
+    "sha256": "9468e06c8840e8e15eedd3dac8c5434f63f8ff4a62b9dd7c559a3b57902043fc",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/2.png",
+    "bytes": 2635,
+    "sha256": "0fecfd87f7ff43f54bcf22dfa2221aa67d82fea83ab07c2ea4bba452b070eb25",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/3.png",
+    "bytes": 3111,
+    "sha256": "423732605d9da0c8ee8ec06f377bdae02a43a79286d88ffb2e59ea6ea5c907b2",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/4.png",
+    "bytes": 1605,
+    "sha256": "72cd01059c1373858dea19c95b48d99951101c73bc266fb23791a08260f3343e",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/5.png",
+    "bytes": 4588,
+    "sha256": "83312f3d3511d08cc72ded28b37082effaec26f3a9f54f2e1f2e30e08be69039",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/1.png",
+    "bytes": 1732,
+    "sha256": "79dc4ec9fa26489689f10d26cae2d563604036b3529b246cfeb81eab47d8dc11",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/2.png",
+    "bytes": 2635,
+    "sha256": "da50e15905ab36df50bd74b4fef6949dcf92322062d3d5eb3efddc592fdd7f5a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/3.png",
+    "bytes": 3111,
+    "sha256": "baee8cd327263670f70e801e60cd6fbf6b74e70411cac0db18f58fc576acd05a",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/4.png",
+    "bytes": 1605,
+    "sha256": "ba3986c19ace5c8d541e6603ad0239d5842733985fdf3e0ab1c7461ed257d047",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/5.png",
+    "bytes": 4588,
+    "sha256": "3a275eb80ee5d27faae1d95a6501fdeba065f317c7be08209bba4192048f9311",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/7/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/1.png",
+    "bytes": 1732,
+    "sha256": "d3b1899393ea59b3673129b8a414375a853f31b23552e66b763fd92cbfb008ab",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/2.png",
+    "bytes": 2538,
+    "sha256": "daf9be2a6986e4ced7b450f8f8bdeb9f1ad58672566934738dce07f9e9f8c595",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/3.png",
+    "bytes": 2962,
+    "sha256": "ab31ec0dfe9ff8d439196c6c527b05cccc9387800e6d2ac1688dddb5c7c93465",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/4.png",
+    "bytes": 1604,
+    "sha256": "d9e0b13a424e95c0c5ef7d39142422b46f415944e5848bef4870dcf2efe169cf",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/5.png",
+    "bytes": 3861,
+    "sha256": "1f53f173a4a9dca6191162a99e661813c19d34323bc1b24881f5004689612b86",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Day/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/1.png",
+    "bytes": 1732,
+    "sha256": "822a81f9a1f9ebbafd97c85a39dbd792ce3e8e3debe567f7d565d85add07111d",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/1.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/2.png",
+    "bytes": 2538,
+    "sha256": "61485bb77eea3aabeef8a64ba72e1754884a086e55209ea01a6943d3793419c1",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/2.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/3.png",
+    "bytes": 2962,
+    "sha256": "b35904916ee305ac3cec9e4cd3083222bc33da0e0c32fc7f9a2740ef6fc6bb20",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/3.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/4.png",
+    "bytes": 1604,
+    "sha256": "7811ccff1f62b01ce254da66d421eeb902ce1edff95f21495004848db02264e6",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/4.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/5.png",
+    "bytes": 3861,
+    "sha256": "98bdee8ee7b5899adc79380c55ddb9006ebdb6ba46bcf9067cefdb97c713f058",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/1 Backgrounds/8/Night/5.png"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art/Font.txt",
+    "bytes": 64,
+    "sha256": "831d08686bd8302bd4e44dd241289f07c822af7d39b05f23acd7359f950c8491",
+    "restored_paths": [
+      "source_materials/free-scrolling-city-backgrounds-pixel-art/Font.txt"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/free-scrolling-city-backgrounds-pixel-art.zip",
+    "bytes": 163358,
+    "sha256": "7be33f4fe22daf413c87816ba1210b24b9954093c0acc726b693171587a22df3",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/jpg",
+    "bytes": 91879,
+    "sha256": "0ccd4397ce4baea1314f2e59d0e74f759e4c3c388817828dd62ac80b962d8177",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/load_screen.GIF",
+    "bytes": 870375,
+    "sha256": "54059b0ed235e9d5305bc048628ba27c119960b86c303c5b8124180d97de5e4a",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/load_screen.JPG",
+    "bytes": 527302,
+    "sha256": "8d096b38738d7679ef8abbd72f08e17d28720c8b25aadabce72a1c120ff6585f",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/void-tiles.png",
+    "bytes": 7752,
+    "sha256": "55c114c6ecf506a67e76acd8660db8e78e61ec850da5a26a3211ffc927155ce6",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/434ac4aa649d99c.mp3",
+    "bytes": 173870,
+    "sha256": "ae4064b5d6be8008ab081bb8b73f5ab941461bcc90b72c49c7cde0fcc08c0bd4",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/5e242695b886041.mp3",
+    "bytes": 146493,
+    "sha256": "a993751df72f1e263e5d021c4bf0098bd2494f55f246dc5f95113bee383f0d92",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/9374c7d5275c04e.mp3",
+    "bytes": 334784,
+    "sha256": "c9af8d69a6b7e962a62259d761690bd8fd855c8321540372cb17b363611adef8",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/ad43e5fdcdddb29.mp3",
+    "bytes": 613354,
+    "sha256": "2549b23423fd3bacbe6a2d85b2bb8cc9805f4540e8604545633c43454012b6af",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/german_traffic_ambience_munic.mp3",
+    "bytes": 28740593,
+    "sha256": "7b730c282122ceb4fef044a6de450b0cf2899af954066f2a425770b76a5224a9",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/l-slo_6.mp3",
+    "bytes": 578619,
+    "sha256": "fa7cab7be6b472a42d24095420f2ea53d413e61a818a5a397c20552b96986429",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/434ac4aa649d99c.mp3.reapeaks",
+    "bytes": 27866,
+    "sha256": "fe1c6d1d042353010abd823e7898bcb3a3f36639aa15aef691431ec127706300",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/5e242695b886041.mp3.reapeaks",
+    "bytes": 23454,
+    "sha256": "d6b817141bfff3d32d5215dadcf983715deff8c9d616790da4cd1fdefd0c664e",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/9374c7d5275c04e.mp3.reapeaks",
+    "bytes": 53674,
+    "sha256": "93d39d562e8155df4a5cc0eb26be8a9e045be6b89706702e202106ea7f82debf",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/ad43e5fdcdddb29.mp3.reapeaks",
+    "bytes": 98394,
+    "sha256": "75b8b1f94eaa7be988ff914f780c4b2ebc00040de90f4dfe493ea5cec93dce86",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/german_traffic_ambience_munic.mp3.reapeaks",
+    "bytes": 1845050,
+    "sha256": "f99cb137c3112a497121c23fea2a4e57edc9b39098bcd29883dc1ae14698f383",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/german_traffic_ambience_munic.mp3.reapindex",
+    "bytes": 119776,
+    "sha256": "df64513c3509ea76e474b00647b4692897e210ff1db625427cb44173fc96bf17",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/1 scene/peaks/l-slo_6.mp3.reapeaks",
+    "bytes": 148034,
+    "sha256": "30526b75bd04f4a298d9bf199b13e6695f569dba27155f6356e9dd581c28212d",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Bump in the Night.mp3",
+    "bytes": 4465811,
+    "sha256": "99b88bec0277f1397203852c8f1cb092ed461fd80990ffa4c04c3b4a68afbdb6",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Midnight Meeting.mp3",
+    "bytes": 1763403,
+    "sha256": "e4287c1aab912d6ff0a93ba1c29e2781a54fd1bd26d14bc5f6b93e19ea1d6459",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Night of Chaos.mp3",
+    "bytes": 8405279,
+    "sha256": "f485f167190714de2347235f9e088e6257316e7ab77db4c30fe85268327f1ae6",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Quinns Song-First Night.mp3",
+    "bytes": 12577178,
+    "sha256": "96dfe17cd6cbbacfd01b8d0fafb6354ca3745fc5da29e5759473f0a633180d5e",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/SCP-x1x.mp3",
+    "bytes": 7037008,
+    "sha256": "0c8c68a9a1ee7093089639f0de4a20bc143ebb739dc3b0fa150d2bb5635fdd79",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Shadowlands 2 - Bridge.mp3",
+    "bytes": 6660320,
+    "sha256": "68d3714d215cb8d35cb6831e45c154f48b86bd4f92b7a44a928b8e4b58f65acf",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Shadowlands 4 - Breath.mp3",
+    "bytes": 7364164,
+    "sha256": "67b1890c72b4b27d350bbe8955baeda56e8504907cce1a249457ed06ed062208",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/Shadowlands 7 - Codex.mp3",
+    "bytes": 6788215,
+    "sha256": "d8792fc750814bbaf7ca9b63cb5969446996a941cd86885c6dc8c109a976ed6a",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/all_sounds.txt",
+    "bytes": 53,
+    "sha256": "96a0f5ba61c24e17dfdf058195d2d493a46a9976abf23cc0130ebfa64ee320ff",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/mobile_phone_nokia_8210_three_ringtones-7128.mp3",
+    "bytes": 1114279,
+    "sha256": "0e12b9ec340be851ecbd0c456949bb74105b76fec515611ed8575ef3c09711df",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/nokia_ringtone.mp3",
+    "bytes": 372819,
+    "sha256": "8ad9943170c8cb646c0895b0f75f28b2c684820b033852d1e0f342b7fc2a41ed",
+    "restored_paths": [
+      "assets/audio/nokia_ringtone.mp3"
+    ],
+    "status": "included"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/phone-call-14472.mp3",
+    "bytes": 22080,
+    "sha256": "5f8b60b6a2680a7af518ee2b3d60a84e4dd1a724fe07683b9655caa62254afb8",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  },
+  {
+    "original_path": "рабочие файлы/вся музыка и звуки скачанные для проекта/telephone-dial-and-call-ring-21151.mp3",
+    "bytes": 447216,
+    "sha256": "bb5e7bfed0323512139f5b91244c72b7675ae1aac31006071303b42f21882fff",
+    "restored_paths": [],
+    "status": "retained in original uploaded ZIP only"
+  }
+]

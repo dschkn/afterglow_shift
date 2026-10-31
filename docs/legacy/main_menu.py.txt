@@ -1,0 +1,141 @@
+import pygame
+import sys
+import os
+
+# Инициализация Pygame
+pygame.init()
+
+# Устанавливаем размеры окна
+WIDTH, HEIGHT = 576, 1024  # ширина и высота окна
+
+# Создание экрана
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+
+# Название окна
+pygame.display.set_caption("Afterglow Shift")
+
+# Загрузка изображения экрана загрузки
+load_screen = pygame.image.load(os.path.join("assets", "load_screen.jpg"))
+load_screen = pygame.transform.scale(load_screen, (WIDTH, HEIGHT))  # Масштабируем под размер экрана
+
+# Устанавливаем начальную прозрачность
+load_screen.set_alpha(0)
+
+# Загрузка фоновой музыки
+pygame.mixer.music.load(os.path.join("assets", "sound", "afterglow_shift_main.wav"))
+
+# Время появления (5 секунд)
+fade_time = 10000  # 5 секунд
+delay_time = 1500  # 3 секунды задержки до начала анимации
+start_time = pygame.time.get_ticks()  # Время начала
+
+# Загрузка шрифта 20051.ttf с размером 16
+font_path = os.path.join("assets", "fonts", "20051.ttf")
+font = pygame.font.Font(font_path, 16)
+
+menu_font = pygame.font.Font(font_path, 16)  # Размер шрифта для меню
+
+# Тексты меню
+menu_items = ['new game', 'settings', 'exit']
+menu_item_surfaces = [menu_font.render(item, True, (160, 160, 160)) for item in menu_items]
+menu_item_rects = [surface.get_rect(topleft=(50, 800 + 60 * i)) for i, surface in enumerate(menu_item_surfaces)]
+
+# Установка начальной прозрачности для текста меню
+menu_item_alphas = [0] * len(menu_items)
+
+def start_new_game():
+    # Путь к файлу скрипта первого уровня
+    level1_script_path = os.path.join("levels", "level1_1.cutscene.py")
+
+    # Проверяем, существует ли файл
+    if os.path.exists(level1_script_path):
+        # Запуск уровня через exec()
+        exec(open(level1_script_path).read())
+    else:
+        print("Ошибка: файл уровня не найден!")
+
+# Основной игровой цикл
+running = True
+animation_started = False
+music_started = False
+fade_start_time = 0
+volume = 0.0  # Начальная громкость музыки
+menu_shown = False
+menu_start_time = 0
+menu_fade_start_time = 0
+
+while running:
+    # Обработка событий
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        if event.type == pygame.MOUSEBUTTONDOWN and menu_shown:
+            x, y = pygame.mouse.get_pos()
+            for i, rect in enumerate(menu_item_rects):
+                if rect.collidepoint(x, y):
+                    if i == 0:  # Новый игрок
+                        print("New Game selected")
+                        start_new_game()  # Запуск нового уровня
+                    elif i == 1:
+                        print("Settings selected")
+                    elif i == 2:
+                        print("Exit selected")
+                        running = False
+
+    # Время, прошедшее с начала
+    elapsed_time = pygame.time.get_ticks() - start_time
+
+    # Если прошло 3000 мс, начинаем анимацию
+    if elapsed_time >= delay_time and not animation_started:
+        animation_started = True
+        fade_start_time = pygame.time.get_ticks()  # Время начала анимации
+        pygame.mixer.music.play(-1, 0.0)  # Запуск музыки с начала (цикл -1)
+        music_started = True
+
+    # Инициализация переменной fade_elapsed_time
+    if animation_started:
+        fade_elapsed_time = pygame.time.get_ticks() - fade_start_time
+
+        # Если анимация началась, плавно увеличиваем прозрачность изображения
+        if fade_elapsed_time < fade_time:
+            alpha = int((fade_elapsed_time / fade_time) * 255)
+            load_screen.set_alpha(alpha)
+
+        # Если музыка начала воспроизводиться, плавно увеличиваем громкость
+        if music_started:
+            volume = min((fade_elapsed_time / fade_time), 1.0)  # Максимум громкости 1.0
+            pygame.mixer.music.set_volume(volume)
+
+        # Если фейд завершен, ждем 1.5 секунды и показываем меню
+        if fade_elapsed_time >= fade_time and not menu_shown:
+            menu_start_time = pygame.time.get_ticks()  # Время начала отображения меню
+            menu_fade_start_time = pygame.time.get_ticks()  # Время начала фейда для текста меню
+            menu_shown = True
+
+    # Заливаем экран черным цветом
+    screen.fill((0, 0, 0))
+
+    # Отображаем изображение с текущей прозрачностью
+    screen.blit(load_screen, (0, 0))
+
+    # Если меню должно быть показано, плавно отображаем текст
+    if menu_shown:
+        elapsed_menu_fade_time = pygame.time.get_ticks() - menu_fade_start_time
+        if elapsed_menu_fade_time < 2000:  # 2 секунды для фейда
+            # Вычисляем текущую прозрачность текста
+            menu_alpha = int((elapsed_menu_fade_time / 2000) * 255)
+            for i, surface in enumerate(menu_item_surfaces):
+                menu_item_surfaces[i] = menu_font.render(menu_items[i], True, (160, 160, 160))
+                # Применяем текущую прозрачность к каждому пункту меню
+                menu_item_surfaces[i].set_alpha(menu_alpha)
+
+        # Отображаем текст меню с текущей прозрачностью
+        for i, surface in enumerate(menu_item_surfaces):
+            screen.blit(surface, menu_item_rects[i])
+
+    # Обновляем экран
+    pygame.display.flip()
+
+# Завершаем работу Pygame
+pygame.quit()
+sys.exit()

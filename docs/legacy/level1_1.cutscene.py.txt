@@ -1,0 +1,103 @@
+import os
+import pygame
+
+# Инициализация Pygame
+pygame.init()
+pygame.mixer.init()
+
+WIDTH, HEIGHT = 576, 1024
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Cinematic Scene")
+
+clock = pygame.time.Clock()
+
+# Пути
+FRAMES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "first", "002", "backs")
+MUSIC_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..","sound", "street_rain.mp3"))
+RINGTONE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..","sound", "ringtone.wav"))
+
+# Музыка фона
+pygame.mixer.music.load(MUSIC_PATH)
+pygame.mixer.music.play(-1)
+
+# Звук рингтона
+ringtone = pygame.mixer.Sound(RINGTONE_PATH)
+ringtone_played = False
+
+# Шрифт и текст
+font = pygame.font.SysFont("Arial", 32)
+text_color = (255, 255, 255)
+text_visible = False
+text_alpha = 0
+text_blink_timer = 0
+
+# Загрузка кадров
+frame_files = [f for f in os.listdir(FRAMES_PATH) if f.endswith((".gif", ".jpg"))]
+frames = []
+for f in frame_files:
+    try:
+        frame = pygame.image.load(os.path.join(FRAMES_PATH, f)).convert()
+        frames.append(frame)
+    except pygame.error as e:
+        print(f"Ошибка при загрузке изображения {f}: {e}")
+
+if not frames:
+    print("Не удалось загрузить изображения!")
+    pygame.quit()
+    exit()
+
+frame_count = len(frames)
+frame_index = 0
+fps = 6
+frame_duration = 1 / fps
+
+# Таймеры
+start_ticks = pygame.time.get_ticks()
+ringtone_time = 3000  # через 3 секунды
+text_time = 4000      # через 4 секунды
+
+running = True
+while running:
+    now = pygame.time.get_ticks()
+    elapsed = now - start_ticks
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+
+    # Кадровая анимация
+    frame_index = (frame_index + 1) % frame_count
+    screen.blit(frames[frame_index], (0, 0))
+
+    # Фейд-ин экран
+    if elapsed < 3000:
+        fade_alpha = int(255 * (1 - elapsed / 3000))
+        fade_surface = pygame.Surface((WIDTH, HEIGHT))
+        fade_surface.set_alpha(fade_alpha)
+        fade_surface.fill((0, 0, 0))
+        screen.blit(fade_surface, (0, 0))
+
+    # Звук рингтона
+    if not ringtone_played and elapsed >= ringtone_time:
+        ringtone.play()
+        ringtone_played = True
+
+    # Появление текста
+    if elapsed >= text_time:
+        if text_alpha < 255:
+            text_alpha += 5  # медленный фейд-ин
+        else:
+            # мерцание
+            text_blink_timer += 1
+            if text_blink_timer > 30:
+                text_alpha = 255 if text_alpha == 0 else 0
+                text_blink_timer = 0
+
+        text_surface = font.render("[   Ответить на звонок   ]", True, text_color)
+        text_surface.set_alpha(text_alpha)
+        screen.blit(text_surface, (WIDTH // 2 - text_surface.get_width() // 2, HEIGHT - 100))
+
+    pygame.display.flip()
+    clock.tick(fps)
+
+pygame.quit()

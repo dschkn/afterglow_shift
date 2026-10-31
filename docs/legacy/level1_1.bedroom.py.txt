@@ -1,0 +1,79 @@
+import os
+import pygame
+
+# Инициализация Pygame
+pygame.init()
+pygame.mixer.init()
+
+WIDTH, HEIGHT = 576, 1024
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Cinematic Scene")
+
+clock = pygame.time.Clock()
+
+# Пути
+FRAMES_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "first", "002", "backs")
+  # Папка с кадрами
+MUSIC_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..","sound", "street_rain.mp3"))
+
+# Музыка
+pygame.mixer.music.load(MUSIC_PATH)
+pygame.mixer.music.play(-1)  # Зацикливаем
+
+# Фильтруем только изображения (например, .png и .jpg)
+frame_files = [f for f in os.listdir(FRAMES_PATH) if f.endswith(('.gif', '.jpg'))]
+
+# Загружаем кадры
+frames = []
+for f in frame_files:
+    try:
+        frame = pygame.image.load(os.path.join(FRAMES_PATH, f))
+        frames.append(frame)
+    except pygame.error as e:
+        print(f"Ошибка при загрузке изображения {f}: {e}")
+
+# Если нет кадров, выходим
+if not frames:
+    print("Не удалось загрузить изображения!")
+    pygame.quit()
+    exit()
+
+frame_count = len(frames)
+
+# Таймер
+frame_index = 0
+fps = 6  # Кадры в секунду
+frame_duration = 1 / fps  # Длительность каждого кадра в секундах
+
+# Игровой цикл
+running = True
+start_ticks = pygame.time.get_ticks()  # Стартовый таймер для фейд-ин эффекта
+while running:
+    now = pygame.time.get_ticks()
+    elapsed = (now - start_ticks) / 1000  # Время прошедшее с начала игры (в секундах)
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+
+    # Переключение на следующий кадр
+    frame_index = (frame_index + 1) % frame_count  # Циклически переключаем кадры
+
+    # Получаем текущий кадр
+    frame = frames[frame_index]
+
+    # Преобразуем кадр в surface и рисуем
+    screen.blit(frame, (0, 0))
+
+    # Фейд-ин: накладываем черный прямоугольник, уменьшая альфу
+    if elapsed < 6:
+        fade_alpha = int(255 * (1 - elapsed / 3))
+        fade_surface = pygame.Surface((WIDTH, HEIGHT))
+        fade_surface.set_alpha(fade_alpha)
+        fade_surface.fill((0, 0, 0))
+        screen.blit(fade_surface, (0, 0))
+
+    pygame.display.flip()
+    clock.tick(fps)  # Поддерживаем желаемую частоту кадров (fps)
+
+pygame.quit()

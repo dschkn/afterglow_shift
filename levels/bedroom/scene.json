@@ -1,0 +1,6 @@
+{
+  "frames": "assets/frames",
+  "fps": 6,
+  "ring_at": 3,
+  "prompt_at": 4
+}
