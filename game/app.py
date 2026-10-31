@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 import pygame
 from .resources import SIZE
+from .rendering import canvas, blit
 from .audio import Audio
 from .scenes.menu import Menu
 from .scenes.intro import Intro
@@ -16,7 +17,7 @@ class Game:
         pygame.init()
         self.window = pygame.display.set_mode(window_size, pygame.RESIZABLE)
         pygame.display.set_caption('Afterglow Shift')
-        self.canvas = pygame.Surface(SIZE)
+        self.canvas = canvas(SIZE)
         self.clock = pygame.time.Clock()
         self.audio = Audio()
         self.running = True
@@ -71,7 +72,7 @@ class Game:
         self.scene.draw(self.canvas)
         self.window.fill((0, 0, 0))
         rect = self.viewport()
-        self.window.blit(pygame.transform.scale(self.canvas, rect.size), rect)
+        blit(self.window, pygame.transform.scale(self.canvas, rect.size), rect)
         pygame.display.flip()
 
     def run(self, frames=None, fixed_dt=None, screenshot=None):

@@ -2,6 +2,7 @@
 import json
 from pathlib import Path
 import pygame
+from .rendering import rgba
 
 ROOT = Path(__file__).resolve().parents[1]
 SIZE = (576, 1024)
@@ -12,7 +13,7 @@ def config(level):
 
 
 def picture(path, size=None):
-    surface = pygame.image.load(str(ROOT / path)).convert_alpha()
+    surface = rgba(pygame.image.load(str(ROOT / path)))
     return pygame.transform.scale(surface, size) if size else surface
 
 

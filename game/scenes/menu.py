@@ -1,3 +1,4 @@
+from ..rendering import blit, rgba
 import pygame
 from .base import Scene
 from ..resources import SIZE, picture
@@ -37,12 +38,12 @@ class Menu(Scene):
             self.app.running = False
 
     def draw(self, target):
-        target.blit(self.background, (0, 0))
+        blit(target, self.background, (0, 0))
         self.shade(target, 255 * (1 - min(1, max(0, (self.time - 1.5) / 10))))
         labels = (['sound: off' if self.app.audio.muted else 'sound: on', 'back']
                   if self.settings else ['new game', 'settings', 'exit'])
         alpha = min(255, max(0, (self.time - 11.5) * 127.5))
         for label, rect in zip(labels, self.buttons):
-            text = self.font.render(label, True, (160, 160, 160))
+            text = rgba(self.font.render(label, True, (160, 160, 160)))
             text.set_alpha(round(alpha))
-            target.blit(text, (50, rect.y + 20))
+            blit(target, text, (50, rect.y + 20))

@@ -1,4 +1,5 @@
 """Reconstructed layered city and accumulating narration from the recording."""
+from ..rendering import blit, rgba
 import pygame
 from .base import Scene
 from ..resources import SIZE, config, picture
@@ -47,8 +48,8 @@ class Intro(Scene):
         for image, speed in self.layers:
             # Modulo wrapping never leaves a gap, including after long pauses.
             x = -round((self.time * speed) % image.get_width())
-            target.blit(image, (x, 0))
-            target.blit(image, (x + image.get_width(), 0))
+            blit(target, image, (x, 0))
+            blit(target, image, (x + image.get_width(), 0))
         self.shade(target, self.data['darkness'], self.data['tint'])
         for i, text in enumerate(self.data['pages'][self.page]):
             age = self.page_time - i * self.data['line_seconds']

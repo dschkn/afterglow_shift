@@ -1,4 +1,5 @@
 """Recovered 39-frame bedroom loop; phone is a prototype endpoint."""
+from ..rendering import blit, rgba
 from .base import Scene
 from ..resources import SIZE, config, picture, frame_paths
 
@@ -33,11 +34,11 @@ class Bedroom(Scene):
 
     def draw(self, target):
         index = int(self.time * self.data['fps']) % len(self.frames)
-        target.blit(self.frames[index], (0, 0))
+        blit(target, self.frames[index], (0, 0))
         self.shade(target, 255 * (1 - min(1, self.time / 3)))
         if self.answered:
             self.shade(target, 150)
-            target.blit(self.phone, (198, 280))
+            blit(target, self.phone, (198, 280))
             self.line(target, 'конец восстановленного фрагмента', 730)
             self.line(target, '[ нажмите, чтобы вернуться в меню ]', 850)
         elif self.time >= self.data['prompt_at']:
