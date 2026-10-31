@@ -31,12 +31,14 @@ class GameTests(unittest.TestCase):
         g.scene.activate()
         g.scene.update(3)
         self.assertEqual(g.scene_name, 'bedroom')
-        g.scene.update(4)
+        g.scene.update(5)
         self.assertTrue(g.scene.ringing)
-        g.scene.activate()
+        g.scene.activate(g.scene.answer_rect.center)
         self.assertTrue(g.scene.answered)
         self.assertEqual(g.audio.effects, [])
-        g.scene.activate()
+        g.scene.update(60)
+        self.assertEqual(g.scene_name, 'bedroom')
+        g.handle(pygame.event.Event(pygame.KEYDOWN, key=pygame.K_ESCAPE))
         self.assertEqual(g.scene_name, 'menu')
         g.scene.activate()
         g.scene.update(0)
@@ -118,6 +120,44 @@ class GameTests(unittest.TestCase):
         self.game.audio.music('street_rain.mp3')
         self.assertTrue(pygame.mixer.music.get_busy())
         self.assertIsNone(self.game.audio.music_stream)
+
+    def test_call_requires_green_key_and_preserves_quiet_volume(self):
+        g = self.game
+        g.change('bedroom')
+        g.scene.update(3)
+        self.assertTrue(g.scene.ringing)
+        self.assertEqual(g.scene.phone_progress, 0)
+        g.scene.activate((200, 950))
+        self.assertFalse(g.scene.answered)
+        g.scene.update(2)
+        for pos in (None, (10, 10), (280, 300), (350, 940)):
+            g.scene.activate(pos)
+            self.assertFalse(g.scene.answered)
+        sound = g.audio.effects[0]
+        self.assertLess(sound.get_volume(), 0.2)
+        g.audio.toggle()
+        g.audio.toggle()
+        self.assertLess(sound.get_volume(), 0.2)
+        g.scene.update(60)
+        self.assertTrue(g.scene.ringing)
+        g.scene.activate(g.scene.answer_rect.center)
+        self.assertTrue(g.scene.answered)
+        g.scene.activate(g.scene.answer_rect.center)
+        self.assertEqual(g.scene_name, 'bedroom')
+
+    def test_green_key_accepts_touch_in_resized_window(self):
+        g = self.game
+        g.window = pygame.display.set_mode((900, 700), pygame.RESIZABLE)
+        g.change('bedroom')
+        g.scene.update(5)
+        x, y = g.scene.answer_rect.center
+        viewport = g.viewport()
+        px = viewport.x + x * viewport.w / 576
+        py = viewport.y + y * viewport.h / 1024
+        g.handle(pygame.event.Event(pygame.FINGERDOWN, x=px/900, y=py/700))
+        self.assertTrue(g.scene.answered)
+        self.assertFalse(g.scene.ringing)
+        self.assertEqual(g.audio.effects, [])
 
     def test_escape_and_quit(self):
         g = self.game

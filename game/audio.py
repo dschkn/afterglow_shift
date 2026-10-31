@@ -11,6 +11,7 @@ class Audio:
         self.muted = False
         self.gain = 1.0
         self.effects = []
+        self.effect_gains = {}
         self.music_stream = None
 
     def music(self, name, fade_ms=0):
@@ -39,14 +40,15 @@ class Audio:
         if self.enabled:
             pygame.mixer.music.set_volume(0 if self.muted else self.gain)
 
-    def effect(self, name, loops=0):
+    def effect(self, name, loops=0, gain=0.65):
         if not self.enabled:
             return
         try:
             sound = pygame.mixer.Sound(str(ROOT / 'assets/audio' / name))
-            sound.set_volume(0 if self.muted else 0.65)
+            sound.set_volume(0 if self.muted else gain)
             sound.play(loops=loops)
             self.effects.append(sound)
+            self.effect_gains[sound] = gain
         except (pygame.error, FileNotFoundError) as exc:
             logging.warning('Effect unavailable: %s', exc)
 
@@ -54,9 +56,10 @@ class Audio:
         for sound in self.effects:
             sound.stop()
         self.effects.clear()
+        self.effect_gains.clear()
 
     def toggle(self):
         self.muted = not self.muted
         self.volume(self.gain)
         for sound in self.effects:
-            sound.set_volume(0 if self.muted else 0.65)
+            sound.set_volume(0 if self.muted else self.effect_gains[sound])

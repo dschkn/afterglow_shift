@@ -7,7 +7,7 @@ from ..resources import SIZE, picture
 class Menu(Scene):
     def __init__(self, app):
         super().__init__(app)
-        self.background = picture('assets/menu/background.jpg', SIZE)
+        self.background = picture('assets/menu/background.png', SIZE)
         self.buttons = [pygame.Rect(40, 780 + i * 60, 260, 55) for i in range(3)]
         self.settings = False
         self.music_started = False

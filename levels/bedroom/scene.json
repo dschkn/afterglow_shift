@@ -2,5 +2,7 @@
   "frames": "assets/frames",
   "fps": 6,
   "ring_at": 3,
-  "prompt_at": 4
+  "prompt_at": 3,
+  "ring_gain": 0.18,
+  "phone_slide_seconds": 1.2
 }
