@@ -187,6 +187,34 @@ class GameTests(unittest.TestCase):
         self.assertEqual(voice.get_num_channels(), 0)
         self.assertEqual(g.audio.effects, [])
 
+    def test_cinematic_cuts_follow_voice_and_do_not_restart_audio(self):
+        g = self.game
+        g.change('bedroom')
+        g.scene.update(9)
+        self.assertIsNone(g.scene.answered_at)
+        g.scene.activate(g.scene.answer_rect.center)
+        voice = g.scene.voice
+        started = g.scene.answered_at
+        self.assertEqual(g.scene.call_duration, voice.get_length())
+        _, first, second, _, _ = g.scene.cinematic_state()
+        for elapsed, stage in [(0, 0), (first, 1), (first+1, 1), (second, 2), (second+2, 2)]:
+            g.scene.time = started + elapsed
+            state = g.scene.cinematic_state()
+            self.assertEqual(state[3], stage)
+            g.draw()
+            if elapsed in (first, second):
+                self.assertEqual(g.canvas.get_at((288, 512))[:3], (0, 0, 0))
+            g.scene.activate((250, 500))
+            self.assertIs(g.scene.voice, voice)
+            self.assertEqual(g.audio.effects, [voice])
+        for clip in g.scene.clips:
+            self.assertGreater(len(clip.frames), 1)
+            self.assertEqual(clip.frame_index(0), clip.frame_index(clip.duration))
+        g.change('menu')
+        self.assertEqual(voice.get_num_channels(), 0)
+        g.change('bedroom')
+        self.assertIsNone(g.scene.answered_at)
+
     def test_escape_and_quit(self):
         g = self.game
         g.change('intro')

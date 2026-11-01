@@ -6,5 +6,15 @@
   "ring_gain": 0.18,
   "phone_slide_seconds": 1.2,
   "voice_gain": 0.35,
-  "voice_background_gain": 0.18
+  "voice_background_gain": 0.18,
+  "cinematic": {
+    "clips": [
+      "assets/call/car.gif",
+      "assets/call/street.gif"
+    ],
+    "phone_hold": 2,
+    "fade_seconds": 0.9,
+    "second_shot_fraction": 0.52,
+    "silent_duration": 30
+  }
 }
