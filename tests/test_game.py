@@ -31,11 +31,11 @@ class GameTests(unittest.TestCase):
         g.scene.activate()
         g.scene.update(3)
         self.assertEqual(g.scene_name, 'bedroom')
-        g.scene.update(5)
+        g.scene.update(9)
         self.assertTrue(g.scene.ringing)
         g.scene.activate(g.scene.answer_rect.center)
         self.assertTrue(g.scene.answered)
-        self.assertEqual(g.audio.effects, [])
+        self.assertEqual(g.audio.effects, [g.scene.voice])
         g.scene.update(60)
         self.assertEqual(g.scene_name, 'bedroom')
         g.handle(pygame.event.Event(pygame.KEYDOWN, key=pygame.K_ESCAPE))
@@ -124,7 +124,10 @@ class GameTests(unittest.TestCase):
     def test_call_requires_green_key_and_preserves_quiet_volume(self):
         g = self.game
         g.change('bedroom')
-        g.scene.update(3)
+        g.scene.update(6.99)
+        self.assertFalse(g.scene.ringing)
+        self.assertEqual(g.audio.effects, [])
+        g.scene.update(0.01)
         self.assertTrue(g.scene.ringing)
         self.assertEqual(g.scene.phone_progress, 0)
         g.scene.activate((200, 950))
@@ -149,7 +152,7 @@ class GameTests(unittest.TestCase):
         g = self.game
         g.window = pygame.display.set_mode((900, 700), pygame.RESIZABLE)
         g.change('bedroom')
-        g.scene.update(5)
+        g.scene.update(9)
         x, y = g.scene.answer_rect.center
         viewport = g.viewport()
         px = viewport.x + x * viewport.w / 576
@@ -157,6 +160,31 @@ class GameTests(unittest.TestCase):
         g.handle(pygame.event.Event(pygame.FINGERDOWN, x=px/900, y=py/700))
         self.assertTrue(g.scene.answered)
         self.assertFalse(g.scene.ringing)
+        self.assertEqual(g.audio.effects, [g.scene.voice])
+
+    def test_roy_recording_plays_once_and_stops_on_exit(self):
+        g = self.game
+        g.change('bedroom')
+        g.scene.update(9)
+        g.scene.activate(g.scene.answer_rect.center)
+        voice = g.scene.voice
+        self.assertIsNotNone(voice)
+        self.assertGreater(voice.get_length(), 1)
+        self.assertGreater(voice.get_num_channels(), 0)
+        self.assertAlmostEqual(voice.get_volume(), 0.35, delta=0.01)
+        self.assertAlmostEqual(g.audio.gain, 0.18)
+        g.scene.activate(g.scene.answer_rect.center)
+        self.assertEqual(g.audio.effects, [voice])
+        g.audio.toggle()
+        self.assertEqual(voice.get_volume(), 0)
+        g.audio.toggle()
+        self.assertAlmostEqual(voice.get_volume(), 0.35, delta=0.01)
+        voice.stop()  # Simulate natural completion without waiting for the recording.
+        g.scene.update(0)
+        self.assertFalse(g.scene.voice_playing)
+        self.assertEqual(g.audio.gain, 1)
+        g.change('menu')
+        self.assertEqual(voice.get_num_channels(), 0)
         self.assertEqual(g.audio.effects, [])
 
     def test_escape_and_quit(self):

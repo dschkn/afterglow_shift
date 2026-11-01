@@ -49,6 +49,7 @@ class Audio:
             sound.play(loops=loops)
             self.effects.append(sound)
             self.effect_gains[sound] = gain
+            return sound
         except (pygame.error, FileNotFoundError) as exc:
             logging.warning('Effect unavailable: %s', exc)
 

@@ -17,7 +17,7 @@ def picture(path, size=None):
     return pygame.transform.scale(surface, size) if size else surface
 
 
-def font(size=16):
+def font(size=20):
     return pygame.font.Font(str(ROOT / 'assets/fonts/20051.ttf'), size)
 
 

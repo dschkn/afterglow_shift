@@ -1,8 +1,10 @@
 {
   "frames": "assets/frames",
   "fps": 6,
-  "ring_at": 3,
-  "prompt_at": 3,
+  "ring_at": 7,
+  "prompt_at": 7,
   "ring_gain": 0.18,
-  "phone_slide_seconds": 1.2
+  "phone_slide_seconds": 1.2,
+  "voice_gain": 0.35,
+  "voice_background_gain": 0.18
 }

@@ -26,9 +26,11 @@ class Bedroom(Scene):
         for frame in self.frames:
             frame.blit(repair, patch_rect, patch_rect)
         self.phone = picture('levels/bedroom/assets/phone.png', self.PHONE_SIZE)
-        self.lcd_font = font(16)
+        self.lcd_font = font(18)
         self.ringing = False
         self.answered = False
+        self.voice = None
+        self.voice_playing = False
         self.app.audio.music('street_rain.mp3', fade_ms=1500)
 
     @property
@@ -51,6 +53,9 @@ class Bedroom(Scene):
 
     def update(self, dt):
         super().update(dt)
+        if self.voice_playing and self.voice.get_num_channels() == 0:
+            self.voice_playing = False
+            self.app.audio.volume(1.0)
         if self.time >= self.data['ring_at'] and not self.ringing and not self.answered:
             self.app.audio.effect('nokia_ringtone.mp3', loops=-1, gain=self.data.get('ring_gain', 0.18))
             self.ringing = True
@@ -62,6 +67,10 @@ class Bedroom(Scene):
         self.answered = True
         self.ringing = False
         self.app.audio.stop_effects()
+        self.voice = self.app.audio.effect('roy_call.mp3', gain=self.data['voice_gain'])
+        if self.voice is not None:
+            self.voice_playing = True
+            self.app.audio.volume(self.data['voice_background_gain'])
 
     def draw(self, target):
         index = int(self.time * self.data['fps']) % len(self.frames)
