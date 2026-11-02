@@ -16,7 +16,7 @@ def decode_gif(path):
         size = gif.size
         for i in range(gif.n_frames):
             gif.seek(i)  # Pillow applies GIF disposal and compositing.
-            elapsed += max(10, gif.info.get('duration', 100)) / 1000
+            elapsed += 1.12 * max(10, gif.info.get('duration', 100)) / 1000
             frames.append(zlib.compress(gif.convert('RGB').tobytes(), 1))
             ends.append(elapsed)
     return size, tuple(frames), tuple(ends)
