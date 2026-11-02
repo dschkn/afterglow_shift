@@ -8,8 +8,10 @@ from .audio import Audio
 from .scenes.menu import Menu
 from .scenes.intro import Intro
 from .scenes.bedroom import Bedroom
+from .scenes.bridge import Bridge
+from .scenes.roy_meeting import RoyMeeting
 
-SCENES = {'menu': Menu, 'intro': Intro, 'bedroom': Bedroom}
+SCENES = {'menu': Menu, 'intro': Intro, 'bedroom': Bedroom, 'bridge': Bridge, 'roy_meeting': RoyMeeting}
 
 
 class Game:
@@ -54,19 +56,41 @@ class Game:
                     self.change('menu')
             elif event.key == pygame.K_m:
                 self.audio.toggle()
+            elif event.key in (pygame.K_SPACE, pygame.K_RIGHT) and self.scene_name == 'bridge':
+                self.scene.holding = True
+                self.scene.active_pointer = 'keyboard'
             elif event.key in (pygame.K_SPACE, pygame.K_RETURN):
                 self.scene.activate()
+        elif event.type == pygame.KEYUP:
+            if event.key in (pygame.K_SPACE, pygame.K_RIGHT) and hasattr(self.scene, 'pointer_up'):
+                self.scene.pointer_up('keyboard')
+        elif event.type == pygame.MOUSEBUTTONUP and event.button == 1:
+            if hasattr(self.scene, 'pointer_up'):
+                self.scene.pointer_up('mouse')
         elif event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
             # SDL emits synthetic mouse events for touch; process fingers only once.
             if not getattr(event, 'touch', False):
                 point = self.logical_pos(event.pos)
                 if point is not None:
-                    self.scene.activate(point)
+                    if self.scene_name == 'bridge':
+                        self.scene.pointer_down(point, 'mouse')
+                    else:
+                        self.scene.activate(point)
         elif event.type == pygame.FINGERDOWN:
             w, h = self.window.get_size()
             point = self.logical_pos((event.x * w, event.y * h))
             if point is not None:
-                self.scene.activate(point)
+                if self.scene_name == 'bridge':
+                    self.scene.pointer_down(point, event.finger_id)
+                else:
+                    self.scene.activate(point)
+        elif event.type in (pygame.FINGERUP, getattr(pygame, 'FINGERCANCEL', -999)):
+            if hasattr(self.scene, 'pointer_up'):
+                self.scene.pointer_up(event.finger_id)
+        elif event.type == pygame.WINDOWFOCUSLOST:
+            if hasattr(self.scene, 'pointer_up'):
+                self.scene.holding = False
+                self.scene.active_pointer = None
 
     def draw(self):
         self.scene.draw(self.canvas)
