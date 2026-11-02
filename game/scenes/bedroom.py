@@ -33,10 +33,15 @@ class Bedroom(Scene):
         self.voice = None
         self.voice_playing = False
         self.answered_at = None
+        self.continue_at = None
         self.call_duration = self.data['cinematic']['silent_duration']
         self.clips = [CinematicClip('levels/bedroom/' + path)
                       for path in self.data['cinematic']['clips']]
         self.app.audio.music('street_rain.mp3', fade_ms=1500)
+
+    @property
+    def can_continue(self):
+        return self.continue_at is not None and self.time - self.continue_at >= 2.5
 
     @property
     def phone_progress(self):
@@ -61,11 +66,17 @@ class Bedroom(Scene):
         if self.voice_playing and self.voice.get_num_channels() == 0:
             self.voice_playing = False
             self.app.audio.volume(1.0)
+        if self.answered_at is not None and self.continue_at is None:
+            if self.time-self.answered_at >= self.call_duration:
+                self.continue_at = self.time
         if self.time >= self.data['ring_at'] and not self.ringing and not self.answered:
             self.app.audio.effect('nokia_ringtone.mp3', loops=-1, gain=self.data.get('ring_gain', 0.18))
             self.ringing = True
 
     def activate(self, pos=None):
+        if self.can_continue:
+            self.app.change('bridge')
+            return
         if (not self.ringing or self.answered or self.phone_progress < 1
                 or pos is None or not self.answer_rect.collidepoint(pos)):
             return
@@ -100,8 +111,11 @@ class Bedroom(Scene):
     def cinematic_state(self):
         settings = self.data['cinematic']
         elapsed = max(0, self.time - self.answered_at)
-        first = settings['phone_hold'] + settings['fade_seconds']
-        second = max(first + 3, self.call_duration * settings['second_shot_fraction'])
+        first = max(5.4, settings['phone_hold'] + settings['fade_seconds'])
+        second = max(first + 7.5, self.call_duration * settings['second_shot_fraction'])
+        if self.call_duration > first + 3:
+            second = min(second, self.call_duration - 3)
+        second = max(first + .8, second)
         stage = 0 if elapsed + 1e-9 < first else (1 if elapsed + 1e-9 < second else 2)
         fade = max(0, 1 - min(abs(elapsed-first), abs(elapsed-second)) / settings['fade_seconds'])
         return elapsed, first, second, stage, fade
@@ -118,3 +132,5 @@ class Bedroom(Scene):
             end = second if stage == 1 else max(second+1, self.call_duration)
             self.clips[stage-1].draw(target, elapsed-start, (elapsed-start)/(end-start))
         self.shade(target, round(255*fade))
+        if self.can_continue:
+            self.line(target, '[ Продолжить ]', 950, color=(214,204,208))
